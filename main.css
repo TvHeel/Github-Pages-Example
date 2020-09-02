@@ -1,7 +1,9 @@
 .inner{
   max-width: 900px;
 }
-
+a{
+  color: #b5e853
+}
 .nav{
   text-align: center; 
   background-color: white;
