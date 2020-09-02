@@ -1,4 +1,4 @@
-![Thomas van Heel](https://via.placeholder.com/300.png/09f/fff%20C/O%20https://placeholder.com/){: width="250px" align="right"}
+![Thomas van Heel](_images/cyber-security.jpg){: width="250px" align="right"}
 # Over mij
 
 ## Fontys Hogeschool ICT
