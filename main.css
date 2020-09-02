@@ -4,6 +4,9 @@
 a{
   color: #b5e853
 }
+header h1::before{
+  content: "";
+}
 .nav{
   text-align: center; 
   background-color: white;
