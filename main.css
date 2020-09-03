@@ -27,6 +27,7 @@ header h1 {
     color: #737373;
     position: absolute;
     bottom: 0;
+    width: 100%
 }
 
 .site-footer hr {
