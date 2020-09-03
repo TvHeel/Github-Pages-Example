@@ -20,7 +20,7 @@ header h1 {
   padding:45px 0 20px;
   font-size:15px;
   line-height:24px;
-  color:#737373;
+  /*color:#737373;*/
 }
 .site-footer hr
 {
@@ -41,7 +41,7 @@ header h1 {
 }
 .site-footer a
 {
-  color:#737373;
+  color:white;
 }
 .site-footer a:hover
 {
@@ -59,7 +59,7 @@ header h1 {
 }
 .footer-links a
 {
-  color:#737373
+  color:white;
 }
 .footer-links a:active,.footer-links a:focus,.footer-links a:hover
 {
