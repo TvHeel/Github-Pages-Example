@@ -18,6 +18,7 @@ header h1 {
     float:right;
     box-shadow:10px 10px 10px #b5e853;
 }
+
 .nav {
     text-align: center;
     background-color: white;
@@ -108,7 +109,8 @@ header h1 {
 
 @media (max-width: 767px) {
     .site-footer {
-        padding-bottom: 0
+        padding-bottom: 0;
+        width: 760px;
     }
 
     .site-footer .copyright-text, .site-footer .social-icons {
