@@ -16,7 +16,7 @@ header h1 {
 }
 .site-footer
 {
-  background-color:gray;
+  background-color:#26272b;
   padding:45px 0 20px;
   font-size:15px;
   line-height:24px;
@@ -87,7 +87,7 @@ header h1 {
   margin-left:6px;
   margin-right:0;
   border-radius:100%;
-  background-color:gray;
+  background-color:#26272b;
 }
 .copyright-text
 {
