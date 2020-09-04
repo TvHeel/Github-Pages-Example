@@ -18,7 +18,7 @@ th{
 td {
     border: 1px solid #556537;
 }
-section #main_content{
+#main_content{
     min-height: 63vh;
 }
 header h1::before {
