@@ -25,7 +25,7 @@ header h1::before {
     content: "";
 }
 #sticky-footer{
-    background-color: green!important;
+    background-color: #222222!important;
 }
 header h1 {
     margin-left: 0;

@@ -1,2 +1,2 @@
-# Thomas van Heel
-## Cyber Security - Red teaming
+## Thomas van Heel - Cyber Security
+Welkom bij mijn e-portfolio! Dit e-portfolio is opgesteld ter verantwoording van de cyber security minor. Hierin wil ik jullie graag meenemen in mijn minor periode. Dit portfolio zal alles te maken hebben met cyber security, in het specifiek mijn gekozen richting: Red Teaming. [Project(en)](https://tvheel.github.io/project), leermomenten, informatie etc. wordt allemaal beschreven.
