@@ -1,3 +1,6 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #b5e853;!important;
+}
 .inner {
     max-width: 900px;
 }
@@ -18,7 +21,9 @@ header h1 {
     float:right;
     box-shadow:10px 10px 10px #b5e853;
 }
-
+section p{
+    color: white;
+}
 .nav {
     text-align: center;
     background-color: white;
