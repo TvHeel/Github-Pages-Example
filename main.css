@@ -35,8 +35,11 @@ body {
 
 #sticky-footer {
     flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0.4);
 }
-
+#sticky-footer p{
+    color: white;
+}
 /* Other Classes for Page Styling */
 
 /*.site-footer {*/
