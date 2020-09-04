@@ -47,7 +47,7 @@ body {
 }
 
 #sticky-footer a:hover {
-    color: #3366cc;
+    color: #b5e853;
     text-decoration: none;
 }
 
@@ -106,7 +106,7 @@ body {
 
 .social-icons a:active, .social-icons a:focus, .social-icons a:hover {
     color: #fff;
-    background-color: #29aafe
+    background-color: #b5e853;
 }
 
 .social-icons.size-sm a {
@@ -117,19 +117,20 @@ body {
 }
 
 .social-icons a.facebook:hover {
-    background-color: #3b5998
+    background-color:#b5e853;
+
 }
 
 .social-icons a.twitter:hover {
-    background-color: #00aced
+    background-color: #b5e853;
 }
 
 .social-icons a.linkedin:hover {
-    background-color: #007bb6
+    background-color: #b5e853;
 }
 
 .social-icons a.github:hover {
-    background-color: #ea4c89
+    background-color: #b5e853;
 }
 
 @media (max-width: 767px) {
