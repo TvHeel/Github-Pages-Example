@@ -1,4 +1,4 @@
-# Leerplan Cyber Security Minor 2020
+# Leerplan cyber security minor 2020
 
 ## Vaardigheden
 
@@ -6,11 +6,11 @@ Hier ga ik het hebben over de vaardigheden die ik dit semester wil leren. Denk h
 
 ### Technische vaardigheden
 
-Tijdens deze Minor wil ik in gaan op mijn 'hacking skills'. Tijdens voorafgaande specialisaties werd er veel ingegaan op webapplicaties testen, echter zou ik dit semester out of the box willen gaan. In plaats van de focus te leggen op webapplicaties testen, zou ik bijvoorbeeld mezelf willen verdiepen in 'machines ownen'. Wat ik persoonlijk nog lastig vind is het begin van een test, waar moet ik beginnen? Hier ga ik mezelf op focussen. Bovendien verwacht ik dat Reverse Engineering een groot voordeel kan hebben bij Red Teaming, om die reden ga ik me hierin verdiepen en ook een workshop over volgen. 
+Tijdens deze minor wil ik in gaan op mijn 'hacking skills'. Tijdens voorafgaande specialisaties werd er veel ingegaan op webapplicaties testen, echter zou ik dit semester out of the box willen gaan. In plaats van de focus te leggen op webapplicaties testen, zou ik bijvoorbeeld mezelf willen verdiepen in 'machines ownen'. Wat ik persoonlijk nog lastig vind is het begin van een test, waar moet ik beginnen? Hier ga ik mezelf op focussen. Bovendien verwacht ik dat Reverse Engineering een groot voordeel kan hebben bij red teaming, om die reden ga ik me hierin verdiepen en ook een workshop over volgen. 
 
 ### Procedurele vaardigheden
 
-Voorafgaand aan deze Minor heb ik een stage gevolgd bij De Volksbank, hierin heb ik veel geleerd wat betreft documenteren en beargumenteren. Dit was vóór mijn stage wel een aandachtspunt, wel heb ik uit deze periode aandachtspunten geformuleerd. Zo kan ik namelijk veel op papier krijgen, maar hierin vergeet ik vaak de kern van de vraag/of het onderwerp.
+Voorafgaand aan deze minor heb ik een stage gevolgd bij De Volksbank, hierin heb ik veel geleerd wat betreft documenteren en beargumenteren. Dit was vóór mijn stage wel een aandachtspunt, wel heb ik uit deze periode aandachtspunten geformuleerd. Zo kan ik namelijk veel op papier krijgen, maar hierin vergeet ik vaak de kern van de vraag/of het onderwerp.
 
 ### Profesionele houding
 
@@ -21,10 +21,10 @@ Communicatieve vaardigheden, oordeelsvorming etc. is bij mijn geen probleem. Ik 
 
 ## Wensen en doelen
 
-Kortom wil ik dit semester mijn kennis verbereden op het gebied van Red Teaming, door (hack the box en) out of the box te gaan. Bovendien ga ik mezelf verdiepen in de Software kant door in te gaan op Reverse Engineering. Mijn doel is dan ook om na dit semester meer kennis en kunnen te hebben in nieuwe technieken. Graag zou ik dan zien dat alle eerder benoemde leeractiviteiten aangepakt zijn.
+Kortom wil ik dit semester mijn kennis verbereden op het gebied van red teaming, door (hack the box en) out of the box te gaan. Bovendien ga ik mezelf verdiepen in de Software kant door in te gaan op Reverse Engineering. Mijn doel is dan ook om na dit semester meer kennis en kunnen te hebben in nieuwe technieken. Graag zou ik dan zien dat alle eerder benoemde leeractiviteiten aangepakt zijn.
 
 ## Planning
-Vanuit school zijn er opdrachten en uitdagingen opgesteld en geprioriteerd(via [MoSCoW](https://nl.wikipedia.org/wiki/MoSCoW-methode)) omtrent de richting Red Teaming. Deze staan hieronder beschreven. In de planning zijn deze opgenomen en vastgesteld welke activiteiten verricht worden om het toetspunt aan te tonen.
+Vanuit school zijn er opdrachten en uitdagingen opgesteld en geprioriteerd(via [MoSCoW](https://nl.wikipedia.org/wiki/MoSCoW-methode)) omtrent de richting red teaming. Deze staan hieronder beschreven. In de planning zijn deze opgenomen en vastgesteld welke activiteiten verricht worden om het toetspunt aan te tonen.
 
 #### Opdrachten (EN)
 1. M: Find a couple of red teaming and pen-tester vacancies with job descriptions and analyse what task and skills are described. Add to and update your learning plan as needed.
