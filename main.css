@@ -9,10 +9,13 @@ a {
     color: #b5e853
 }
 table {
-    border: 1px solid #b5e853;
+    border: 1px solid #556537;
+}
+th{
+    color: #b5e853;
 }
 td {
-    border: 1px solid #b5e853;
+    border: 1px solid #556537;
 }
 section #main_content{
     min-height: 63vh;
