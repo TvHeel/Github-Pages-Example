@@ -26,6 +26,9 @@ header h1 {
 section p{
     color: white;
 }
+li, ol, table{
+    color: white;
+}
 .nav {
     text-align: center;
     background-color: white;
