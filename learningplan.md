@@ -72,6 +72,7 @@ Vanuit school zijn er  opdrachten en uitdagingen opgesteld en geprioriteerd(via 
 
 '*' uitdagingen 3 en 11 worden herhaald bij elke pentestdag van het R&D project.
 
+Tijdens het project wordt ook het leerdoel "C: Contribute to the [INTERSECT](https://www.nwo.nl/en/research-and-results/research-projects/i/00/33700.html) research by demonstrating known or new attack scenario's in 'Smart Energy' applications, for example in electric vehicle charging networks end endpoints/apps/..., smart energy home applications and energy systems, etc." meegenomen.
+
 In deze planning zijn er ook lege weken te zien, deze dienen als ruimte voor toetspunten die mogelijk uitlopen. Mocht het zijn dat er in die week inderdaad alles gedaan is, wordt er met gekeken naar nieuwe opdrachten.
 
-Tijdens het project wordt ook het leerdoel "C: Contribute to the [INTERSECT](https://www.nwo.nl/en/research-and-results/research-projects/i/00/33700.html) research by demonstrating known or new attack scenario's in 'Smart Energy' applications, for example in electric vehicle charging networks end endpoints/apps/..., smart energy home applications and energy systems, etc." meegenomen.
