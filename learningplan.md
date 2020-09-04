@@ -50,8 +50,6 @@ Vanuit school zijn er  opdrachten en uitdagingen opgesteld en geprioriteerd(via 
 11. S: Look into the security of IoT or OT (e.g. PLC) protocols and technology and find and replay one or more hacks or other security incidents in a test environment. 
 12. C: Develop a dropbox that can be used in red teaming assignments.
 
-#### tabel
-
 | week | opdrachten                       | uitdagingen                                      | workshops                   |
 | ---- | -------------------------------- | ------------------------------------------------ | --------------------------- |
 | 1    | leerplan opstellen               | portfolio opstellen                              |
