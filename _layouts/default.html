@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="main.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     {% seo %}
@@ -37,7 +38,83 @@
         {{ content }}
     </section>
 </div>
+<!-- Footer -->
+<footer class="page-footer font-small special-color-dark pt-4">
 
+    <!-- Footer Elements -->
+    <div class="container">
+
+        <!-- Social buttons -->
+        <ul class="list-unstyled list-inline text-center">
+            <li class="list-inline-item">
+                <a class="btn-floating btn-fb mx-1">
+                    <i class="fab fa-facebook-f"> </i>
+                </a>
+            </li>
+            <li class="list-inline-item">
+                <a class="btn-floating btn-tw mx-1">
+                    <i class="fab fa-twitter"> </i>
+                </a>
+            </li>
+            <li class="list-inline-item">
+                <a class="btn-floating btn-gplus mx-1">
+                    <i class="fab fa-google-plus-g"> </i>
+                </a>
+            </li>
+            <li class="list-inline-item">
+                <a class="btn-floating btn-li mx-1">
+                    <i class="fab fa-linkedin-in"> </i>
+                </a>
+            </li>
+            <li class="list-inline-item">
+                <a class="btn-floating btn-dribbble mx-1">
+                    <i class="fab fa-dribbble"> </i>
+                </a>
+            </li>
+        </ul>
+        <!-- Social buttons -->
+
+    </div>
+    <!-- Footer Elements -->
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">© 2020 Copyright:
+        <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+    </div>
+    <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
+<!-- Site footer -->
+<!--<footer class="site-footer">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-sm-12 col-md-6">-->
+<!--                <h6>Cyber Security Minor 2020</h6>-->
+<!--                <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>-->
+<!--            </div>-->
+
+<!--        </div>-->
+<!--        <hr>-->
+<!--    </div>-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-md-8 col-sm-6 col-xs-12">-->
+<!--                <p class="copyright-text">Copyright &copy; 2020 All Rights Reserved by Thomas van Heel.-->
+<!--                </p>-->
+<!--            </div>-->
+
+<!--            <div class="col-md-4 col-sm-6 col-xs-12">-->
+<!--                <ul class="social-icons">-->
+<!--                    <li><a class="facebook" href="https://www.facebook.com/thomas.vanheel.73"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>-->
+<!--                    <li><a class="twitter" href="https://twitter.com/?lang=nl"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>-->
+<!--                    <li><a class="github" href="https://github.com/TvHeel"><i class="fa fa-github" aria-hidden="true"></i></a></li>-->
+<!--                    <li><a class="linkedin" href="https://www.linkedin.com/in/thomas-van-heel-325a731a3/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>-->
+<!--                </ul>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</footer>-->
 {% if site.google_analytics %}
 <script>
     (function (i, s, o, g, r, a, m) {
@@ -56,34 +133,4 @@
 </script>
 {% endif %}
 </body>
-<!-- Site footer -->
-<footer class="site-footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 col-md-6">
-                <h6>Cyber Security Minor 2020</h6>
-                <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            </div>
-
-        </div>
-        <hr>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 col-sm-6 col-xs-12">
-                <p class="copyright-text">Copyright &copy; 2020 All Rights Reserved by Thomas van Heel.
-                </p>
-            </div>
-
-            <div class="col-md-4 col-sm-6 col-xs-12">
-                <ul class="social-icons">
-                    <li><a class="facebook" href="https://www.facebook.com/thomas.vanheel.73"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                    <li><a class="twitter" href="https://twitter.com/?lang=nl"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                    <li><a class="github" href="https://github.com/TvHeel"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-                    <li><a class="linkedin" href="https://www.linkedin.com/in/thomas-van-heel-325a731a3/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</footer>
 </html>
