@@ -8,7 +8,9 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: #b5e853
 }
-
+section{
+    min-height: 63vh;
+}
 header h1::before {
     content: "";
 }
