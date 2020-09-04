@@ -9,7 +9,10 @@ a {
     color: #b5e853
 }
 table {
-    border: 1px solid red;
+    border: 1px solid #b5e853;
+}
+td {
+    border: 1px solid #b5e853;
 }
 section #main_content{
     min-height: 63vh;
