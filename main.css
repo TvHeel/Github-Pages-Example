@@ -161,7 +161,9 @@ body {
     color: #b5e853;
     text-decoration: none;
 }
-
+.navigation{
+    color: #666
+}
 header {
     border-bottom: 1px solid #b5e853;
 }
