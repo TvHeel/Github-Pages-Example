@@ -157,3 +157,131 @@ body {
         font-weight: 600
     }
 }
+.navigation a {
+    color: #b5e853;
+    text-decoration: none;
+}
+
+header {
+    border-bottom: 1px solid #b5e853;
+}
+
+table {
+    border: 1px solid #373737;
+    margin-bottom: 20px;
+    text-align: left;
+    margin: 0 -30%;
+    width: 160%;
+    line-height: 1;
+    font-size: 14px;
+}
+
+th {
+    font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 10px;
+    background: #0f7952;
+    border-bottom: 0px;
+    color: #fff;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #373737;
+}
+
+.planning td:first-child {
+    width: 2em;
+}
+
+.planning td:nth-child(2) {
+    width: 2em;
+}
+
+.planning td:nth-child(3), .planning td:nth-child(4) {
+    width: 44%;
+}
+
+
+header h1::before {
+    content: "";
+}
+
+header h1 {
+    margin-left: 0;
+}
+
+/* .container {
+  max-width: 1300px;
+} */
+
+.navigation {
+    font-size: 23px;
+}
+
+#a-title {
+    text-decoration: none;
+}
+
+/* Cards */
+
+.card {
+    box-shadow: 0 0 8px 4px #b5e853;
+    transition: 0.3s;
+    width: 25%;
+    background-color: #151515;
+    border-radius: 5px; /* 5px rounded corners */
+    margin: 0 auto;
+}
+
+.card:hover {
+    box-shadow: 0 0 16px 8px #b5e853;
+    cursor: pointer;
+}
+
+.card h4 {
+    font-size: 22px;
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
+.card img {
+    border-radius: 5px 5px 0 0;
+    width: 50px;
+    margin-top: 3px;
+}
+
+.flex {
+    display: flex;
+}
+
+.container h4 {
+    text-align: center;
+    font-size: 23px;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+/* .dropdown:hover .dropbtn {background-color: #3e8e41;} */
