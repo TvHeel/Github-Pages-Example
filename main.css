@@ -165,7 +165,7 @@ body {
     color: #666
 }
 header {
-    border-bottom: 1px solid #b5e853;
+    /*border-bottom: 1px solid #b5e853;*/
 }
 
 /*table {*/
@@ -192,9 +192,9 @@ header {
 .third-level-menu > li
 {
     height: 30px;
-    background: #999999;
+    /*background: #84cc14;*/
 }
-.third-level-menu > li:hover { background: #CCCCCC; }
+/*.third-level-menu > li:hover { background: #669904; }*/
 
 .second-level-menu
 {
@@ -212,9 +212,9 @@ header {
 {
     position: relative;
     height: 30px;
-    background: #999999;
+    /*background: #669904;*/
 }
-.second-level-menu > li:hover { background: #CCCCCC; }
+/*.second-level-menu > li:hover { background: #84cc14; }*/
 
 .top-level-menu
 {
@@ -230,7 +230,7 @@ header {
     height: 30px;
     width: 150px;
 }
-.top-level-menu > li:hover { background: #9ecc16; }
+/*.top-level-menu > li:hover { background: #9ecc16; }*/
 
 .top-level-menu li:hover > ul
 {
@@ -253,6 +253,8 @@ header {
     /*line-height: 30px;*/
 }
 .top-level-menu a:hover { color: darkgreen; }
+.second-level-menu a:hover { color: darkgreen; }
+.third-level-menu a:hover { color: darkgreen; }
 
 
 
