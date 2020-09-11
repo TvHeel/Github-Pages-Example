@@ -177,7 +177,14 @@ header {
 /*    line-height: 1;*/
 /*    font-size: 14px;*/
 /*}*/
-
+.super-sub-item{
+    box-shadow: 0 0 10px 0 #000;
+}
+#super-submenu-must-have{
+    display: block;
+    left: 100px;
+    top: 10px;
+}
 td {
     padding: 10px;
     border: 1px solid #373737;
