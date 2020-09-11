@@ -193,6 +193,8 @@ header {
 {
     height: 30px;
     background: #666;
+    list-style: none;
+
     /*color: black;*/
 }
 /*.third-level-menu > li:hover { background: #CCCCCC; }*/
@@ -215,6 +217,8 @@ header {
     position: relative;
     height: 30px;
     background: #666;
+    list-style: none;
+
 }
 /*.second-level-menu > li:hover { background: #CCCCCC; }*/
 
@@ -231,6 +235,7 @@ header {
     float: left;
     height: 30px;
     width: 150px;
+    list-style: none;
 }
 /*.top-level-menu > li:hover { background: #CCCCCC; }*/
 
