@@ -168,23 +168,15 @@ header {
     border-bottom: 1px solid #b5e853;
 }
 
-table {
-    border: 1px solid #373737;
-    margin-bottom: 20px;
-    text-align: left;
-    margin: 0 -30%;
-    width: 160%;
-    line-height: 1;
-    font-size: 14px;
-}
-
-th {
-    font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    padding: 10px;
-    background: #0f7952;
-    border-bottom: 0px;
-    color: #fff;
-}
+/*table {*/
+/*    border: 1px solid #373737;*/
+/*    margin-bottom: 20px;*/
+/*    text-align: left;*/
+/*    margin: 0 -30%;*/
+/*    width: 160%;*/
+/*    line-height: 1;*/
+/*    font-size: 14px;*/
+/*}*/
 
 td {
     padding: 10px;
