@@ -180,11 +180,25 @@ header {
 .super-sub-item{
     box-shadow: 0 0 10px 0 #000;
 }
-#super-submenu-must-have{
-    display: block;
-    left: 100px;
-    top: 10px;
+.third-level-menu
+{
+    position: absolute;
+    top: 0;
+    right: -150px;
+    width: 150px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: none;
 }
+
+.third-level-menu > li
+{
+    height: 30px;
+    background: #999999;
+}
+.third-level-menu > li:hover { background: #CCCCCC; }
+
 td {
     padding: 10px;
     border: 1px solid #373737;
