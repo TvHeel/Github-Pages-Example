@@ -192,8 +192,8 @@ header {
 .third-level-menu > li
 {
     height: 30px;
-    background: white;
-    color: black;
+    background: #666;
+    /*color: black;*/
 }
 /*.third-level-menu > li:hover { background: #CCCCCC; }*/
 
@@ -211,10 +211,10 @@ header {
 
 .second-level-menu > li
 {
-    color: black;
+    /*color: black;*/
     position: relative;
     height: 30px;
-    background: white;
+    background: #666;
 }
 /*.second-level-menu > li:hover { background: #CCCCCC; }*/
 
