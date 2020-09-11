@@ -229,9 +229,8 @@ header {
     float: left;
     height: 30px;
     width: 150px;
-    background: #999999;
 }
-.top-level-menu > li:hover { background: #CCCCCC; }
+.top-level-menu > li:hover { background: #9ecc16; }
 
 .top-level-menu li:hover > ul
 {
@@ -244,16 +243,16 @@ header {
 
 .top-level-menu a /* Apply to all links inside the multi-level menu */
 {
-    font: bold 14px Arial, Helvetica, sans-serif;
-    color: #FFFFFF;
-    text-decoration: none;
-    padding: 0 0 0 10px;
+    /*font: bold 14px Arial, Helvetica, sans-serif;*/
+    /*color: #FFFFFF;*/
+    /*text-decoration: none;*/
+    /*padding: 0 0 0 10px;*/
 
-    /* Make the link cover the entire list item-container */
-    display: block;
-    line-height: 30px;
+    /*!* Make the link cover the entire list item-container *!*/
+    /*display: block;*/
+    /*line-height: 30px;*/
 }
-.top-level-menu a:hover { color: #000000; }
+.top-level-menu a:hover { color: darkgreen; }
 
 
 
