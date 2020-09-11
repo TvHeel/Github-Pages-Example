@@ -54,7 +54,7 @@ In de onderstaande tabel zijn de nummers van de bijbehorende uitdagingen of opdr
 
 | week | opdrachten                       | uitdagingen                                      | workshops                   |
 | ---- | -------------------------------- | ------------------------------------------------ | --------------------------- |
-| 1    | leerplan opstellen               | portfolio opstellen                              |
+| 1    | learning plan setup               | portfolio setup                              |
 | 2    | 1)Find a couple of red teaming and pen-tester vacancies,4) Set up your personal toolbox                             |                                                  |                             |
 | 3    |                                  | 1) Own one of the active Linux based machines                                                |
 | 4    |                                  | 2) Own one of the active Windows based machines                                        |
