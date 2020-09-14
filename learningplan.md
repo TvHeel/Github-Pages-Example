@@ -62,10 +62,10 @@ In de onderstaande tabel zijn de nummers van de bijbehorende uitdagingen of opdr
 | 6    |                                  | 4) Prepare towards a Red Team - Blue Team exercise                                                |
 | 7    |                                  | * 3) Set up and perform a pen-test , 11) Look into the security of IoT or OT                                            |
 | 8    | 2) Experiment with phishing tooling                                | 5) Work on challenge(s) of your personal interest                                               |
-| 9    |                                  |                                                  |
-| 10   |                                  |                                                  |
-| 11   | 3) Read about covert channels                                |                                                  |
-| 12   |                                  |                                                  |
+| 9    | 6) lock picking                  |                                                  |
+| 10   | own) buffer overflow             |                                                  |
+| 11   |                                  |                                                  |
+| 12   | 3) Read about covert channels                                 |                                                  |
 | 13   | 8) Complete challenges in all categories                                |                                                  |
 | 14   |                                  |                                                  |
 | 15   | 5) With a red teaming perspective visit a local building                                |                                                  |
