@@ -54,23 +54,23 @@ In de onderstaande tabel zijn de nummers van de bijbehorende uitdagingen of opdr
 
 | week | opdrachten                       | uitdagingen                                      | workshops                   |
 | ---- | -------------------------------- | ------------------------------------------------ | --------------------------- |
-| 1    | learning plan setup               | portfolio setup                              |
-| 2    | 1)Find a couple of red teaming and pen-tester vacancies,4) Set up your personal toolbox                             |                                                  |                             |
-| 3    |                                  | 1) Own one of the active Linux based machines                                                |
-| 4    |                                  | 2) Own one of the active Windows based machines                                        |
+| 1    | learning plan setup               | portfolio setup                                 |
+| 2    | 1)Find a couple of red teaming and pen-tester vacancies,4) Set up your personal toolbox                           |                                                  |                             |
+| 3    |                                  | 1) Own one of the active Linux based machines                                  |
+| 4    |                                  | 2) Own one of the active Windows based machines                                |
 | 5    | 7) Learn how to do reversing of smartphone                                 | 5) Work on challenge(s) of your personal interest                                                | (Reverse Engineering)
-| 6    |                                  | 4) Prepare towards a Red Team - Blue Team exercise                                                |
-| 7    |                                  | * 3) Set up and perform a pen-test , 11) Look into the security of IoT or OT                                            |
-| 8    | 2) Experiment with phishing tooling                                | 5) Work on challenge(s) of your personal interest                                               |
-| 9    | 6) lock picking                  |                                                  |
-| 10   | own) buffer overflow             |                                                  |
+| 6    |                                  | 4) Prepare towards a Red Team - Blue Team exercise|
+| 7    |                                  | * 3) Set up and perform a pen-test , 11) Look into the security of IoT or OT|
+| 8    | 2) Experiment with phishing tooling                                | 5) Work on challenge(s) of your personal interest|
+| 9    | 6/5) lock picking and visiting local building|                                      |
+| 10   | own) buffer overflow             | 5) Work on challenge(s) of your personal interest|
 | 11   |                                  |                                                  |
-| 12   | 3) Read about covert channels                                 |                                                  |
-| 13   | 8) Complete challenges in all categories                                |                                                  |
-| 14   |                                  |                                                  |
-| 15   | 5) With a red teaming perspective visit a local building                                |                                                  |
-| 16   |                                  | 8) Perform a vulnerability analysis on a (smartphone) app.                                                |
-| 17   |                                  | 9) Perform vulnerability analysis on websites from organizations                                                |
+| 12   | own) Rubber ducky (scripting)    |                                                  |
+| 13   |                                  |                                                  |
+| 14   | 8) Complete challenges in all categories|                                           |
+| 15   |                                  |                                                  |
+| 16   |                                  | 8) Perform a vulnerability analysis on a (smartphone) app.|
+| 17   |                                  | 9) Perform vulnerability analysis on websites from organizations|
 
 '*' uitdagingen 3 en 11 worden herhaald bij elke pentestdag van het R&D project.
 
