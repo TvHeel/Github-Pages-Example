@@ -2,12 +2,12 @@
 
 Voor Hack The Box heb ik voor zowel Linux en Windows writeups gemaakt.
 
-<a class="downloadlink" onClick="passwd('./files/Linux_Passage_HTB.docx','Linux (Passage) writeup')">Linux (Passage) writeup</a>
+<a onClick="passwd('./files/Linux_Passage_HTB.docx','Linux (Passage) writeup')">Linux (Passage) writeup</a>
 
-![Linux machine writeup](https://www.hackthebox.eu/storage/avatars/ec88bbe570fd512ab370208e5139bb41_thumb.png){: width="300px" height="300px" style="float: left;"}
+![Linux machine writeup](https://www.hackthebox.eu/storage/avatars/ec88bbe570fd512ab370208e5139bb41_thumb.png){: style="float: left; width: 50%"}
 
-<br><br><br><a onClick="">Windows</a>
+<a onClick="">Windows (Worker) writeup</a>
 
-![Linux machine writeup](``){: width="300px" height="300px" style="float: left;"}
+![Windows machine writeup](https://www.hackthebox.eu/storage/avatars/13358d0b09074485f107f36625b50a5c_thumb.png){: style="float: right; width: 50%; margin-top: -4px;"}
 
 
