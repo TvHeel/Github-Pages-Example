@@ -6,4 +6,8 @@ Voor Hack The Box heb ik voor zowel Linux en Windows writeups gemaakt.
 
 ![Linux machine writeup](https://www.hackthebox.eu/storage/avatars/ec88bbe570fd512ab370208e5139bb41_thumb.png){: width="300px" height="300px" style="float: left;"}
 
+<a onClick="">Windows</a>
+
+![Linux machine writeup](){: width="300px" height="300px" style="float: left;"}
+
 
