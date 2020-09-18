@@ -1,7 +1,7 @@
-function passwd(){
+function passwd(uri,name){
     var password = prompt('Enter the password to download the file:');
-    if(password.toLowerCase() == "teacher"){
-        downloadURI("./files/TvH_TICT.pdf","hoi");
+    if(password.toLowerCase() == "TeacherFHICT1!@"){
+        downloadURI(uri,name);
     }
     else{
         alert("incorrect password!! please try again");
