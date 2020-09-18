@@ -167,6 +167,10 @@ body {
 header {
     border-bottom: 1px solid #b5e853;
 }
+.downloadlink{
+    color: dodgerblue;
+    text-decoration: underline;
+}
 
 /*table {*/
 /*    border: 1px solid #373737;*/
