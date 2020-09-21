@@ -343,7 +343,7 @@ header h1 {
     font-size: 23px;
 }
 
-a .downloadlink{
+a.downloadlink{
     text-decoration: underline;
     color:lightblue;
 }
