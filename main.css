@@ -343,13 +343,12 @@ header h1 {
     font-size: 23px;
 }
 
-.downloadlink{
+a .downloadlink{
     text-decoration: underline;
     color:lightblue;
-
 }
 #windowslink{
-    margin-left: 26%;
+    margin-left: 32%;
 }
 .dropdown {
     position: relative;

@@ -6,7 +6,7 @@ Voor Hack The Box heb ik voor zowel Linux en Windows writeups gemaakt.
 <a class="downloadlink" id="windowslink" onClick="">Windows (Worker) writeup</a>
 
 ![Linux machine writeup](/images/Passage.png){: style="float: left; width: 50%; height: 260px;"}
-![Windows machine writeup](/images/worker.jpg){: style="float: right; width: 50%; margin-top: -260px;"}
+![Windows machine writeup](/images/worker.jpg){: style="float: right; width: 50%;"}
 <br>
 
 ### Account
