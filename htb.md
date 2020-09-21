@@ -2,11 +2,11 @@
 
 Voor Hack The Box heb ik voor zowel Linux en Windows writeups gemaakt.
 
-<a onClick="passwd('./files/Linux_Passage_HTB.docx','Linux (Passage) writeup')">Linux (Passage) writeup</a>
-<a onClick="">Windows (Worker) writeup</a>
+<a class="downloadlink" onClick="passwd('./files/Passage-writeup_TvH.docx','Linux (Passage) writeup')">Linux (Passage) writeup</a>
+<a class="downloadlink" id="windowslink" onClick="">Windows (Worker) writeup</a>
 
-![Linux machine writeup](/images/Passage.png){: style="float: left; width: 50%; height: 260px; color: lightblue; text-decoration: underline;"}
-![Windows machine writeup](/images/worker.jpg){: style="float: right; width: 50%; margin-left: 26%; color: lightblue; text-decoration: underline;"}
+![Linux machine writeup](/images/Passage.png){: style="float: left; width: 50%; height: 260px;"}
+![Windows machine writeup](/images/worker.jpg){: style="float: right; width: 50%; margin-top: -260px;"}
 <br>
 
 ### Account
