@@ -1,6 +1,6 @@
 function passwd(uri,name){
     var password = prompt('Enter the password to download the file:');
-    if(password.toLowerCase() == "TeacherFHICT1!@"){
+    if(password == "FHICTteacher"){
         downloadURI(uri,name);
     }
     else{
