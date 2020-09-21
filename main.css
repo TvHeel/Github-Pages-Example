@@ -343,9 +343,9 @@ header h1 {
     font-size: 23px;
 }
 
-p a .downloadlink{
-    text-decoration: underline;
-    color:lightblue;
+.downloadlink:hover{
+   cursor: pointer;
+    color: #666;
 }
 #windowslink{
     margin-left: 35%;
