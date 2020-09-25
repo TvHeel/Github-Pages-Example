@@ -10,3 +10,4 @@ Dit is allemaal beschreven in dit
 Voor dit onderwerp heb ik de [TICT](https://tict.io/) tool gebruik, deze tooling dient als een raamwerk voor je onderzoek. <br>
 Het resultaat van deze tool is allemaal beschreven in dit 
 <a href="./files/TvH_TICT.pdf" download>document</a>.
+
