@@ -322,7 +322,11 @@ header h1 {
     box-shadow: 0 0 16px 8px #b5e853;
     cursor: pointer;
 }
-
+.INTERSECT{
+    float: left;
+    width: 250px;
+    border-radius: 4px;
+}
 .card h4 {
     font-size: 22px;
 }

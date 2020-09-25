@@ -2,8 +2,30 @@ Bij dit leerdoel zullen verschillende vacatures bekeken worden en zo nodig wordt
 
 ### Vacatures
 
+#### Secura
+Secura is een groot bedrijf omtrent Cyber Security, een dergelijk bedrijf spreekt mij erg aan. Om als pentester daar aan de slag te gaan eisen ze het volgende([vacature](https://www.secura.com/nl/vacature-Ethical-Hacker)):
+
+Voor een starter:
+
+-  Minimaal een afgeronde Technische HBO/WO opleiding.
+-  0 tot 5 jaar relevante werkervaring.
+-  Nederlands en Engelse spreek- en schrijfvaardigheid.
+-  Interesse in web applicatie security, netwerk security en/of social engineering.
+-  Een aantoonbare affiniteit met IT Security testen.
+-  Bij voorkeur ervaring met programmeren, social engineering, hardware hacking of forensic engineering.
+-  Sterke communicatie vaardigheden zowel mondeling als schriftelijk.
+-  Geen 9 tot 5 mentaliteit en reizen naar klanten, inclusief eventuele overnachting, is geen probleem.
+
+Voor een senior ethical hacker eisen ze:
+- Minimaal een afgeronde HBO-opleiding.
+- Minimaal 5 jaar relevante werkervaring.
+- Goede Nederlands en Engelse spreek- en schrijfvaardigheid.
+- Een “hacker mindset” dat resulteert in bijvoorbeeld geroemde blogposts.
+
+#### FoxIT
+
 #### StackOps 
-De eerste vacature die ik gevonden heb is voor StackOps: [vacature StackOps](https://www.vacatures.nl/vacature/ethical-hacker:41927351/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+Nog een vacature die ik gevonden heb is voor StackOps: [vacature StackOps](https://www.vacatures.nl/vacature/ethical-hacker:41927351/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 Hierin kwam naar voren dat ze graag zien dat:
 - Minimaal MBO Niveua 4 afgerond (HBO is een sterke pre)

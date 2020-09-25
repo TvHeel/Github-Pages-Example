@@ -10,3 +10,14 @@ In het feedbackgesprek kwamen een aantal punten naar boven zoals:<br>
 - Ik moest mijn portfolio uitbreiden met alle dingen die ik doe, bijvoorbeeld youtube filmpjes kijken.
 - Hij gaf me tips over templates voor Hack The Box writeups
 - Bovendien liet hij mij de website [TryHackMe](https://tryhackme.com/) zien, voor oefeningen. Ten slotte gaf hij aan dat Certified Secure altijd goed is om naast de rest er bij te doen.
+
+### Moment 2
+24'09'2020 heb ik een tweede gesprek gehad met Ron. Dit gesprek had ik aangevraagd zodat ik hem bij mijn proces en nieuwe planning kon betrekken.
+In het feedbackgesprek kwamen een aantal punten naar boven zoals:<br>
+- Hij liet mij wat links zien wat betreft Buffer Overflow en P4WNPI(Raspberry PI).
+- Hij gaf aan dat mijn set-up van write-up goed was.
+- Mijn website verder professionaliseren.
+- Ik moest vacatures van bedrijven als Secura of FOXIT toevoegen.
+- Als laatse wilde hij graag volgende keer meer zien in mijn portfolio.
+
+Voor de rest zag mijn overall planning er goed uit en moet ik dit alleen nog even met Tom Broumels(vakdocent) overleggen.
