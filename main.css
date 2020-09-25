@@ -340,7 +340,9 @@ header h1 {
 .flex {
     display: flex;
 }
-
+.raspberry_img{
+    float: right;
+}
 .container h4 {
     text-align: center;
     font-size: 23px;
