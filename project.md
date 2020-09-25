@@ -22,8 +22,9 @@ Samen met de groep hebben we een **samenwerkingscontract** opgesteld, waarin all
 Denk hierbij aan afmelden, ziek melden en te laat komen. Verder zijn we aan de slag gegaan met het onderzoek en hebben we al verschillende documenten gemaakt: <br/>
 
 **Initiatie document R&D**<br/>
-<a class="downloadlink" id="windowslink" onClick="downloadURI("./files/Phase1.docx","Phase 1")">Dit</a> document dient als basis voor het project. Hier worden aspecten als stakeholder wensen, Tecnologie en de huidige situatie aangekaart.
+<a class="downloadlink" onClick="passwd('./files/Phase1.docs','Phase 1')">Dit</a>
+ document dient als basis voor het project. Hier worden aspecten als stakeholder wensen, technologie en de huidige situatie aangekaart.
 
 **Onderzoeksplan R&D**<br/>
-<a class="downloadlink" id="windowslink" onClick="downloadURI("./files/Research-plan.docx","Research plan")">Dit</a> document bevat wat wij willen onderzoeken, waarom, met wie, wanneer, waar en op welke manier.
+<a class="downloadlink" id="windowslink" onClick="downloadURI('./files/Research-plan.docx','Research plan')">Dit</a> document bevat wat wij willen onderzoeken, waarom, met wie, wanneer, waar en op welke manier.
 

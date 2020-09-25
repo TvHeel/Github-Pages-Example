@@ -11,3 +11,5 @@ Voor dit onderwerp heb ik de [TICT](https://tict.io/) tool gebruik, deze tooling
 Het resultaat van deze tool is allemaal beschreven in dit 
 <a href="./files/TvH_TICT.pdf" download>document</a>.
 
+### R&D project
+Voor alle documentatie rondom het R&D project zie <a href="https://tvheel.github.io/project">hier</a>
