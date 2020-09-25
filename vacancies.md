@@ -22,7 +22,20 @@ Voor een senior ethical hacker eisen ze:
 - Goede Nederlands en Engelse spreek- en schrijfvaardigheid.
 - Een “hacker mindset” dat resulteert in bijvoorbeeld geroemde blogposts.
 
-#### FoxIT
+#### NorthWave
+NothWave is een bedrijf die zich bezig houdt met cyber security zowel blue als red teaming. De reden waarom ik hier naar gekeken heb is, omdat wij bij dit bedrijf een bedrijfsbezoek hebben gehad.
+Dit bezoek liet voor mij een heel positief gevoel achter. <br/>
+In de [vacture](https://northwave-security.com/jobs/ethical_hacker/) eisen ze wel dat een ethical hacker:
+- Kijk jij verder dan je neus lang is en ga je door tot je elke kwetsbaarheid hebt gevonden?
+- Heb je wel eens een responsible disclosure gedaan? En een bug bounty opgestreken?
+- De tools in Kali Linux ken jij allemaal?
+- Bouw je graag Python scriptjes of Bash oneliners om je werk makkelijker te maken?
+- Begrijp je hoe je ICS kunt testen op security zonder de hele fabriek te slopen?
+- Kennen de broncodes van mobiele apps voor jou geen geheimen?
+- Schrijf jij heldere rapportages en adviezen?
+- Klets jij jezelf zonder angstzweet overal naar binnen?
+- Club mate bij de lunch?
+- Ken je de hele OWASP top 10 nu wel uit je hoofd en wil je een stap verder?
 
 #### StackOps 
 Nog een vacature die ik gevonden heb is voor StackOps: [vacature StackOps](https://www.vacatures.nl/vacature/ethical-hacker:41927351/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
@@ -75,4 +88,7 @@ niet haalbaar om een dergelijk certificatt te halen, omdat ik nog niet genoeg ke
 
 Vaak komt leergierigheid, doorzettingsvermogen en communicatieve vaardigehden aan bod. Dit is bij mij totaal geen probleem, aangezien ik een echte doorzetter ben die erbvan houdt om nieuwe dingen te lern. Communicatief ben ik ook sterk, samenwerken gaat vlekkeloos.
 
-Na dit semester verwacht ik wel een poging tot het OSCP te kunnen doen.
+Bij echt grote bedrijven als NorthWave en Secura zie je niet vaak certificeringen in de vacture naar voren komen. Ze willen liever doorzettingsvermogen,
+leergierigheid en veel kennis. Ik verwacht dat dergelijke bedrijven graag jongeren werknemers wil binnenhalen die veel potentie hebben. De certificaten worden vaak vanuit dit bedrijf gefinancieerd.
+
+Na dit semester verwacht ik echter wel een poging tot het OSCP te kunnen doen.

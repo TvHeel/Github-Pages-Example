@@ -1,4 +1,4 @@
-In dit hoofdstuk wordt al mijn onderzoek beschreven tijdens mijn minor periode. Dit betreft zowel indivdueel onderzoek als project gerelateerd onderzoek.
+In dit hoofdstuk wordt al mijn onderzoek beschreven tijdens mijn minor periode. Dit betreft zowel individueel als project gerelateerd onderzoek.
 
 ### Research approach
 Voor het R&D project heb ik individueel een onderzoeksaanpak opgesteld, hierin komt de hoofdvragen, deelvragen en DOT-framework methoden naar boven.<br/>

@@ -323,7 +323,6 @@ header h1 {
     cursor: pointer;
 }
 .INTERSECT{
-    float: left;
     width: 250px;
     border-radius: 4px;
 }
@@ -346,7 +345,10 @@ header h1 {
     text-align: center;
     font-size: 23px;
 }
-
+.downloadlink{
+    color: lightblue; !important;
+    text-decoration: underline; !important;
+}
 .downloadlink:hover{
    cursor: pointer;
     color: #666;

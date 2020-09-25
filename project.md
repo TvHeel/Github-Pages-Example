@@ -10,7 +10,6 @@ Veel apparaten in de maatschappij worden steeds meer afhankelijk van het interne
 apparaten niet altijd optimaal is. Om hier onderzoek naar te doen en hiermee aan de slag te gaan, heb ik voor INTERSECT gekozen.
 Ik kijk er naar uit om dit R&D project te mogen doen. Persoonlijk vind ik het geweldig om bij te mogen dragen aan de veiligheid van IOT apparaten.
 
-### INTERSECT
 <img src="./images/INTERSECT.PNG" alt="INTERSECT" class="INTERSECT">
 
 Wonder boven wonder wilden meerdere groepsgenoten dit en kregen wij dit project toegewezen. <br/> 
@@ -22,6 +21,7 @@ Dit bedoeling van dit project is om een set guidelines te maken voor IOT apparat
 - Smart City
 - Smart Mobility
 - Smart industrie
+
 Deze categorieën zijn gekozen, omdat IOT heel breed is. Wij kunnen dit niet voor heel IOT security guidelines gaan schrijven en daarom is de **scope** afgebakend.
 De projecten die wij gaan uitvoeren zijn de Smart Office en Airscrubber.
 
@@ -47,5 +47,20 @@ Dit document is [hier](https://tvheel.github.io/research) te zien
 
 
 ### Taken
-Mijn taak tijdens deze sprint was om mee te werken aan de verschillende documenten. Daarnaast was ik in de eerste SCRUM sprint de secretaris. Deze rollen wisselen we elke sprint om, zo hoop ik een keer SCRUM Master te kunnen zijn. 
+Mijn taak tijdens deze sprint was om mee te werken aan de verschillende documenten.<br/>
+In het initiatie document heb ik de volgende dingen gedaan:
+- Opzet, inclusief schutblad
+- Alle omschrijvingspunten van het project (meegeholpen)
+- Interview samenvattingen
+- Risk analyse 
+- Spellingscontrole
+
+In het Onderzoeksplan heb ik het volgende gedaan:
+- Spellingscontrole
+- Feedback verwerken (Workshop Research - Ron Mélotte)
+- 
+
+Vaak kom ik ook met discussiepunten waar over nagedacht moet worden, zodat we weloverwogen keuzes maken.
+
+Daarnaast was ik in de eerste SCRUM sprint de secretaris. Deze rollen wisselen we elke sprint om, zo hoop ik een keer SCRUM Master te kunnen zijn. 
 Hier verwacht ik namelijk mezelf meer te kunnen ontwikkelen op het gebied van leiderschap.
