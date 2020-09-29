@@ -59,7 +59,7 @@ In het initiatie document heb ik de volgende dingen gedaan:
 In het Onderzoeksplan heb ik het volgende gedaan:
 - Spellingscontrole
 - Feedback verwerken (Workshop Research - Ron Mélotte)
-- 
+- Meegeholpen met verschillende onderdelen
 
 Vaak kom ik ook met discussiepunten waar over nagedacht moet worden, zodat we weloverwogen keuzes maken.
 
