@@ -22,19 +22,19 @@ en te versturen staat hieronder uitgelegd:<br />
 Allereerst heb ik GoPhish gedownload via het commando ``go get github.com/gophish/gophish``. 
 Als je in de map gaat waar het gedownload is bevindt zich een bestand genaamd ***gophish***, voor deze uit door: ```./gophish```
 in te voeren. In de terminal krijg je te zien dat GoPhish opstart en je hem kan bereiken op http://127.0.0.1:3333. <br /> 
-<img src="./images/phishing/GoPhish_adminpage.PNG" alt="Inlogpagina GoPhish" class="phishing_img">
+<img src="./images/phishing/GoPhish_adminpage.PNG" alt="Inlogpagina GoPhish" class="phish_img">
 
 **Stap 2**<br />
 Hierna heb ik de User Groups aangemaakt in de webinterface. De User en Groups zijn eigenlijk de daadwerkelijke ontvangers van de phishing mail.
 De ontvanger(s) is in dit geval mijn eigen gmail om te kunnen testen dat deze aankomt.
-<img src="./images/phishing/Users.PNG" alt="Users GoPhish" class="phishing_img">
+<img src="./images/phishing/Users.PNG" alt="Users GoPhish" class="phish_img">
 
 **Stap 3**<br />
 Stap 3 is de stap waarin de "Landing page" wordt gemaakt, ook wel de phishing site genoemd. Deze site is de site waar het slachtoffer
 op kan klikken in de e-mail, echter is dit dus de phishing site. Om dit zo echt mogelijk te laten lijken ben ik gegaan voor Facebook. Waarom ik hiervoor gekozen hebt wordt in
 de volgende stap duidelijk gemaakt. <br /> 
 Hieronder is de (geïmporteerde) phishing website te zien:
-<img src="./images/phishing/landing_page_fb.PNG" alt="Landing page GoPhish" class="phishing_img">
+<img src="./images/phishing/landing_page_fb.PNG" alt="Landing page GoPhish" class="phish_img">
 
 **Stap 4**<br />
 De e-mail die ik zelf gemaakt heb is een e-mail die hoort bij de "Landing page". Het scenario hiervan is als volgt:
@@ -42,7 +42,7 @@ Het slachtoffer krijgt een e-mail binnen waarin staat dat er een recente inlogpo
 Het slachtoffer schiet hierbij in paniek en gaat naar de aangegeven ondersteuningswebsite om het wachtwoord te wijzigen. Echter, moet 
 diegene hier wel voor ingelogd zijn. Daardoor komt de slachtoffer op de inlogpagina zoals in stap 3 te zien is en vult uit paniek 
 zijn/haar gegevens in en vóila de gegevens komen in GoPhish tevoorschijn.
-<img src="./images/phishing/e_mail.PNG" alt="Campaign GoPhish" class="phishing_img">
+<img src="./images/phishing/e_mail.PNG" alt="Campaign GoPhish" class="phish_img">
 
 **Stap 5**<br />
 Om een e-mail te kunnen verzenden moet er wel eerst een server worden opgezet om vanuit te kunnen versturen.
@@ -53,11 +53,11 @@ ook zien wat de headers, spam rate enzovoort is.
 Om de definitieve mail te kunnen versturen moet de "Campaign" aangemaakt worden. De Campaign zorgt ervoor dat
 de e-mail wordt verstuurd met alle bij behorende configuraties. Via deze Campaign kunnen allerlei resultaten van de phishing mail bekeken worden.
 Hieronder is te zien hoe de Campaign gemaakt kan worden, De URL is de url waar de slachtoffer naartoe wordt gestuurd.
-<img src="./images/phishing/Campaign.PNG" alt="Campaign GoPhish" class="phishing_img">
+<img src="./images/phishing/Campaign.PNG" alt="Campaign GoPhish" class="phish_img">
 
 **Resultaat**<br />
 Alle gegevens omtrent de e-mail kunnen bekeken worden in de Campaign. Hieronder is te zien hoe het resultaat is als de data gesubmit is:
-<img src="./images/phishing/credentials_shown.PNG" alt="Campaign GoPhish" class="phishing_img">
+<img src="./images/phishing/credentials_shown.PNG" alt="Campaign GoPhish" class="phish_img">
 Zoals je ziet kan je ook live volgen of het slachtoffer de e-mail geopend heeft, de link geklikt heeft, gegevens heeft ingevuld etc.
 
 ***Notitie***<br />
