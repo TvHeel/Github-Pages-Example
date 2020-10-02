@@ -345,6 +345,12 @@ header h1 {
     margin-right: 700px;
     border-radius: 4px;
 }
+.phish_img_login{
+    float: left;
+    margin-right: 700px;
+    border-radius: 4px;
+    width: 700px;
+}
 .phishing_img{
     float: left;
     margin-right: 10px;

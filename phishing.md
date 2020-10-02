@@ -22,7 +22,7 @@ en te versturen staat hieronder uitgelegd:<br />
 Allereerst heb ik GoPhish gedownload via het commando ``go get github.com/gophish/gophish``. 
 Als je in de map gaat waar het gedownload is bevindt zich een bestand genaamd ***gophish***, voor deze uit door: ```./gophish```
 in te voeren. In de terminal krijg je te zien dat GoPhish opstart en je hem kan bereiken op http://127.0.0.1:3333. <br /> 
-<img src="./images/phishing/GoPhish_adminpage.PNG" alt="Inlogpagina GoPhish" class="phish_img">
+<img src="./images/phishing/GoPhish_adminpage.PNG" alt="Inlogpagina GoPhish" class="phish_img_login">
 
 **Stap 2**<br />
 Hierna heb ik de User Groups aangemaakt in de webinterface. De User en Groups zijn eigenlijk de daadwerkelijke ontvangers van de phishing mail.
