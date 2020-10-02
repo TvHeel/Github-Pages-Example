@@ -340,6 +340,11 @@ header h1 {
 .flex {
     display: flex;
 }
+.phishing_img{
+    align:right;
+    width: 300px;
+    border-radius: 4px;
+}
 .raspberry_img{
     margin-right: 200px;
     width: 300px;
