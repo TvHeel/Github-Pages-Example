@@ -31,7 +31,7 @@ Vanuit school zijn er opdrachten en uitdagingen opgesteld en geprioriteerd(via [
 2. M: Experiment with phishing tooling in a controlled, separated  environment (do not send phishing mails without a written consent!)
 3. M: Read about covert channels, find applications of covert channels in hacking and red teaming, and set-up one or several experimental applications of covert channels
 4. M: Set up your personal toolbox environments for pen-testing and red teaming.
-5. S: With a red teaming perspective visit a local building (school, library, store), document your observations AFTERWARDS from a security point of view (people, processes, technology) also reflect on your experience. Act PASSIVELY, don't do anything illegal or anything that could lead to suspicion  or inconvenience: do not make notes or photos, visit rooms you are not supposed to, try fire doors, etc.
+5. S: With a red teaming perspective visit a visiting building (school, library, store), document your observations AFTERWARDS from a security point of view (people, processes, technology) also reflect on your experience. Act PASSIVELY, don't do anything illegal or anything that could lead to suspicion  or inconvenience: do not make notes or photos, visit rooms you are not supposed to, try fire doors, etc.
 6. C: Pick a lock. Study the security of physical locks and pick a lock with a lock picking set.
 7. S: Learn how to do reversing of smartphone apps (for android, iphone, ...).
 8. S: Complete challenges in all categories on different levels in Hack the Box.
@@ -63,7 +63,7 @@ In de onderstaande tabel zijn de nummers van de bijbehorende uitdagingen of opdr
 | 7    |                                  | 4) Prepare towards a Red Team - Blue Team exercise|
 | 8    |                                  | * 3) Set up and perform a pen-test , 11) Look into the security of IoT or OT|
 | 9    | 7) Learn how to do reversing of smartphone                                 | 5) Work on challenge(s) of your personal interest                                                | (Reverse Engineering)
-| 10    | 6/5) lock picking and visiting local building|                                      |
+| 10    | 6/5) lock picking and visiting visiting building|                                      |
 | 11   | own) buffer overflow             | 5) Work on challenge(s) of your personal interest|
 | 12   |                                  |                                                  |
 | 13   | own) Rubber ducky (scripting)    |                                                  |

@@ -64,14 +64,42 @@ Wat betreft de URL bij het aanmaken van de Campaign, heb ik de URL van mijn rout
 voor een port forwarding voor mijn VM.
 
 ### Geavanceerd
-Bypass spam filters
+Ter verbetering van de phishing mail zou het mooi zijn als:
+- Het lukt om de spam filter te bypassen
+- Dat het slachtoffer op basis van de bron van de e-mail niks verdachts ziet.
+- Dat de phishing URL aangepast kan worden naar een daadwerkelijke URL i.p.v. een IP-adres
 
-Geen acherhaling van de bron
+**Bypass filter** <br />
+Het is gelukt om de filter te bypassen en mijn phishing mail in de inbox te krijgen, van notabene gmail:
+<img src="./images/phishing/Inbox.PNG" alt="Inbox gmail" class="phish_img">
 
-DKIM niet valide
+Bovendien heb ik de phishing mail verbeterd en ziet deze er nu zo uit:
+<img src="./images/phishing/e-mail2.0.PNG" alt="E-mail nieuw" class="phish_img">
+
+Echter, is het niet mogelijk om het Message-Id en de From e-mail headers aan te passen, zodat dit niet verdacht is. Hieronder
+kan je zien dat er namelijk in de bron van de e-mail staat dat het vanuit een kali machine verstuurd is d.m.v. GoPhish:
+<img src="./images/phishing/headers.PNG" alt="E-mail headers" class="phish_img">
 
 ### Ouders
-
+De bovenstaande e-mail ga ik testen bij mijn ouders, die hier uiteraard niks van af weten. Op deze manier kan ik testen hoe mijn e-mail
+functioneert, hoe echt hij lijkt en hoe "aware" mijn ouders zijn op dit gebied. <br />
+                                                                                <br />
+                                                                                Coming soon...
 ### Citrus Andriessen
+[Citrus Andriessen](https://www.citrusandriessen.nl/) is een bedrijf die organisaties helpt bij de overstap van papier naar digitaal of het optimaliseren van je bestaande digitale toetsing.
+Dit bedrijf hebben wij gekozen om te gaan pentesten, hierin kan naast webapplicaties testen misschien ook andere testen gedaan worden. Denk hierbij
+aan Social Engineering of Phishing, dat laaste wil ik graag gaan proberen om de medewerker(s) van dit bedrijf te testen.<br />
+<br />
+Coming soon...
 
 ### Advies
+Om te zorgen dat je niet in dergelijke phishing e-mails trapt zijn heb ik wat aandachtspunten geformuleerd:
+- Ga nooit via een link in een e-mail naar de website voor uw persoonlijke gegevens
+- Reageer nooit meteen op een dergelijke e-mail, criminelen gaan uit van een schokreactie
+- Twijfelt je? Meld het!
+- Controleer de bron van de e-mail
+- Controleer of de URL van de link in de e-mail niet verdacht is.
+
+Hierdoor voorkom je dat je het slachtoffer wordt van een phishingmail. 100% beschermt ben je nooit, maar gebruik ten alle tijden je
+gezond verstand!
+
