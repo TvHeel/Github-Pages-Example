@@ -21,3 +21,12 @@ In het feedbackgesprek kwamen een aantal punten naar boven zoals:<br>
 - Als laatse wilde hij graag volgende keer meer zien in mijn portfolio.
 
 Voor de rest zag mijn overall planning er goed uit en moet ik dit alleen nog even met Tom Broumels(vakdocent) overleggen.
+
+### Moment 3
+8'10'2020 heb ik een derde gesprek gehad met Ron. Dit gesprek had ik aangevraagd zodat ik hem bij mijn proces kon betrekken.
+In het feedbackgesprek kwamen een aantal punten naar boven zoals:<br>
+- Dat ik phishing nog wat moet uitbreiden met de GoPhish disclaim + netwerk tekening + settoolkit eventueel.
+- Dat ik moet bellen naar Citrus Andriessen, als ze niet op de mail reageren.
+- Voor elke machine een writeup maken synchroon met de test.
+
+Ron was zag het positief in en denkt dat het helemaal goed gaat komen.
