@@ -74,7 +74,7 @@ Het is gelukt om de filter te bypassen en mijn phishing mail in de inbox te krij
 <img src="./images/phishing/Inbox.PNG" alt="Inbox gmail" class="phish_img">
 
 Bovendien heb ik de phishing mail verbeterd en ziet deze er nu zo uit:
-<img src="./images/phishing/e-mail2.0.PNG" alt="E-mail nieuw" class="phish_img">
+<img src="./images/phishing/e-mail2.PNG" alt="E-mail nieuw" class="phish_img">
 
 Echter, is het niet mogelijk om het Message-Id en de From e-mail headers aan te passen, zodat dit niet verdacht is. Hieronder
 kan je zien dat er namelijk in de bron van de e-mail staat dat het vanuit een kali machine verstuurd is d.m.v. GoPhish:

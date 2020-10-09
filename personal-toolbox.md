@@ -2,5 +2,10 @@
 Coming soon....
 
 
-#### Videos
+### Videos
 Coming soon....
+
+### Tutorials
+
+### Gebruikte tools
+
