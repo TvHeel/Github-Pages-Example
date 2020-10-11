@@ -24,6 +24,7 @@ Deze ervaring kan ik dna gebruiken in komende pentesten die ik dit en komende ja
 
 ### Youtube video's
 [Simple buffer overflow](https://www.youtube.com/watch?v=B4v56Ns3QhQ&ab_channel=JamesLyne)
+[Buffer overflow complex](https://www.youtube.com/watch?v=Rg_h-XIJ1c4&ab_channel=LiveOverflow)
 
 ### Buffer overflow eenvoudig
 Om het idee achter een buffer overflow te begrijpen heb ik een simpel code geschreven in C. Deze code is gevoelig voor een buffer overflow,
@@ -38,7 +39,21 @@ Om het idee achter een buffer overflow te begrijpen heb ik een simpel code gesch
  zal dus voldoen, hierdoor wordt het bestand uitgelezen zonder enig wachtwoord.
   <img src="./images/buffer-overflow/simple_buffer_overflow.PNG" alt="Buffer overflow simple code" class="phish_img">
   
-### Protostar
+### Buffer overflow complex
+Nu een complexere uitvoering van een buffer overflow, het is een eenvoudig script maar de uitvoering gaat in de diepte.
+ <img src="./images/buffer-overflow/complex/breakpoint.PNG" alt="Buffer overflow simple code" class="phish_img">
 
+ <img src="./images/buffer-overflow/complex/63bytes.PNG" alt="Buffer overflow simple code" class="phish_img">
+ 
+ <img src="./images/buffer-overflow/complex/shell_one.PNG" alt="Buffer overflow simple code" class="phish_img">
+
+ <img src="./images/buffer-overflow/complex/watch.PNG" alt="Buffer overflow simple code" class="phish_img">
+
+ <img src="./images/buffer-overflow/complex/shell.PNG" alt="Buffer overflow simple code" class="phish_img">
+
+
+
+### HTB
+Coming soon....
 
 
