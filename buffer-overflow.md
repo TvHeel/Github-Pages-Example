@@ -40,17 +40,51 @@ Om het idee achter een buffer overflow te begrijpen heb ik een simpel code gesch
   <img src="./images/buffer-overflow/simple_buffer_overflow.PNG" alt="Buffer overflow simple code" class="phish_img">
   
 ### Buffer overflow complex
-Nu een complexere uitvoering van een buffer overflow, het is een eenvoudig script maar de uitvoering gaat in de diepte.
- <img src="./images/buffer-overflow/complex/breakpoint.PNG" alt="Buffer overflow simple code" class="phish_img">
+Nu een complexere uitvoering van een buffer overflow, het is een eenvoudig script maar de uitvoering gaat in de diepte. Het programma is in C code geschreven,
+over het algemeen zijn dergelijke programma's meer vatbaar voor buffer overflows. Echter, als invoer goed wordt afgevangen is er niks aan de hand.
+Bij dit programma is dat niet het geval:
+<img src="./images/buffer-overflow/complex/code.PNG" alt="Code" class="phish_img">
+Allereerst ben ik met de ```gdb``` (GNU Debugger) het programma ingedoken. Met deze debugger kan je het programma debuggen en kijken hoe het programma reageert op verschillende invoer, maar
+wat vooral belangrijk is is hoe het geheugen daarmee omgaat.< br />
+De code bevat verschillende methoden, *overflow* is daar één van. In deze methode zie je dat er gewerkt wordt met een buffer van 64 bytes. Het gevaar hierin is
+dat deze invoer wordt gekopieerd in de buffer. Hieronder is te zien dat ik een breakpoint gezet heb na de functie van *overflow*. Dit heb ik gedaan om te zien wat er gebeurt
+met het geheugen, nadat er een invoer is geweest bij het programma.
+<img src="./images/buffer-overflow/complex/breakpoint.PNG" alt="Buffer overflow simple code" class="phish_img">
+Een logische stap is om nu te achterhalen waar de stack begint in het geheugen en hoeveel bytes je hebt tot het EIP(Extended Instruction Pointer).
+Met de stack wordt de 'ruimte' in het geheugen bedoeld waar de data wordt opgeslagen. De EIP is get adres in de stack die de computer verteld waar in het geheugen
+naar toe gegaan moet worden nadat er een commando uitgevoerd, dit bepaald de flow van het programma.
+<br />
+<br />
+Om dit te kunnen vinden heb ik allereerst de code normaal uitgevoerd door 63 bytes te sturen(maximaal 64 geaccepteerd). Hierdoor stuit het programma
+op de breakpoint, dat betekent dat het programma succesvol is uitgevoerd. In dit geval zou het geheugen veranderd moeten zijn.
+<img src="./images/buffer-overflow/complex/63bytes.PNG" alt="Buffer overflow simple code" class="phish_img">
+Door middel van het ``i frame`` commando, kunnen registers waar onder andere EIP in zit bekeken worden. Dit geeft weer dat het EIP zit op
+``0xffffd19c``. Daarna haal ik het geheugen op rondom deze EIP en hier zie je dat de inderdaad veel ``41`` staan. Dit is de payload
+die ik heb ingevoerd("A" is namelijk 41 in het geheugen).<br /> Op dit moment weet ik dus dat:
+ - het EIP zit op **0xffffd19c**
+ - Return adres **0xffffd168**, midden in de stack
+ - de stack is 80 bytes groot (geel), want tot en met de payload is 62 bytes. Hier komen nog 18 bytes bij tot en met de EIP overschreven is (rood).
+<img src="./images/buffer-overflow/complex/63bytes_uitleg.PNG" alt="Uitleg bytes lengte" class="phish_img">
 
- <img src="./images/buffer-overflow/complex/63bytes.PNG" alt="Buffer overflow simple code" class="phish_img">
- 
- <img src="./images/buffer-overflow/complex/shell_one.PNG" alt="Buffer overflow simple code" class="phish_img">
+De kunst is nu om een payload te creëren die binnen het aantal bytes valt en de rest op te vullen met ``\x90``, de NOP. NOP Op internet heb ik een
+payload gevonden die een reverse shell creëert naar het systeem. Deze shell code is als volgt: ``\x31\xc9\xf7\xe1\xb0\x0b\x51\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\xcd\x80``.
+Deze code is 21 bytes lang, het return adres (EIP) is 4 bytes en de NOP is het resterende dus 55 bytes. Waarom NOP? NOP staat voor No operation sled en dit 
+is bedoeld om te "glijden" tot het volgende geheugen adres. Overal waar naar een NOP adres verwezen wordt, "glijdt" het totdat het bij de uit te voeren code komt( je payload).
+<br /> Ter verduidelijking heb ik een video wat dit illustreert.
 
- <img src="./images/buffer-overflow/complex/watch.PNG" alt="Buffer overflow simple code" class="phish_img">
+<video width="400" controls>
+  <source src="./videos/NOP.mp4" type="video/mp4">
+</video>
 
- <img src="./images/buffer-overflow/complex/shell.PNG" alt="Buffer overflow simple code" class="phish_img">
-
+Door middel van Python heb ik de exploit gemaakt en ga ik hem via de ``gdb`` versturen, ik verwacht dat ik hiermee een shell krijg.
+<img src="./images/buffer-overflow/complex/shell_one.PNG" alt="Buffer overflow simple code" class="phish_img">
+Helaas... dit werkt niet. Ik zet een ```watch``` om te kijken wat er mis gaat.
+<img src="./images/buffer-overflow/complex/watch.PNG" alt="Buffer overflow simple code" class="phish_img">
+Wat er dus gebeurd is dat de shell code zichzelf overschrijft, omdat het huidige geheugen van de shell code wordt verwijderd op het adres.
+Om dit op te lossen heb ik een andere shell code gebruikt die niet afhankelijk is van het pushen naar het stack geheugen, namelijk: ``\xEB\x1A\x5E\x31\xC0\x88\x46\x07\x8D\x1E\x89\x5E\x08\x89\x46\x0C\xB0\x0B\x89\xF3\x8D\x4E\x08\x8D\x56\x0C\xCD\x80\xE8\xE1\xFF\xFF\xFF\x2F\x62\x69\x6E\x2F\x73\x68\x4A``.
+Deze shell code is 41 bytes en wordt de NOP sled dus wat minder lang i.v.m. het verschil in byte lengte.
+<img src="./images/buffer-overflow/complex/shell.PNG" alt="Buffer overflow simple code" class="phish_img">
+Nu deze payload wordt verstuurd, zie je dat er een shell komt! Het werkt!
 
 
 ### HTB
