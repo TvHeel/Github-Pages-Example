@@ -100,7 +100,7 @@ Om die reden heb ik via een tutorial(eerste in de video lijst) een PDF payload k
 
 Allereerst heb ik script gemaakt via [autoit](https://www.autoitscript.com/site/), dit programma biedt de mogelijkheid om een executable te maken die in Windows(slachtoffer) gerund kan worden.
 Dit script ziet er als volgt uit: 
-<img src="./images/SET/au3_script.PNG" alt="autoit" class="phish_img">
+<img src="./images/SET/au3_script.PNG" alt="autoit" class="phish_img" style="align:left;">
 
 
 In dit script moet dan worden aangegeven wat de host is waarop geluisterd wordt en wat de payload is, dit gebeurt via het [shellter](https://www.shellterproject.com/) programma:
