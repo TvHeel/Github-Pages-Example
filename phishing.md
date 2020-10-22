@@ -101,23 +101,39 @@ Om die reden heb ik via een tutorial(eerste in de video lijst) een PDF payload k
 Allereerst heb ik script gemaakt via [autoit](https://www.autoitscript.com/site/), dit programma biedt de mogelijkheid om een executable te maken die in Windows(slachtoffer) gerund kan worden.
 Dit script ziet er als volgt uit: 
 <img src="./images/SET/au3_script.PNG" alt="autoit" class="phish_img">
+
+
 In dit script moet dan worden aangegeven wat de host is waarop geluisterd wordt en wat de payload is, dit gebeurt via het [shellter](https://www.shellterproject.com/) programma:
 <img src="./images/SET/shellter.PNG" alt="pdf" class="phish_img">
+
+
 De URL die in het script te zien is een PDF, deze PDF is een bestand die wordt geopend in de browser. Deze PDF moet dus een bestand zijn die de lezer aanspreekt, want waarom
 zou je hem anders downloaden? In dit geval heb ik gekozen voor de richting "investeren":
 <img src="./images/SET/pdf_open.PNG" alt="pdf" class="phish_img">
+
+
 In deze PDF zit dus stiekem een executable die op de achtergrond wordt uitgevoerd als de slachtoffer hem opent. Zodra deze gedownload is door de slachtoffer ziet hij 
 het volgende in de verkenner:
 <img src="./images/SET/pdf_in_verkenner.png" alt="pdf" class="phish_img">
+
+
 Dit bestand is gemaakt middels de tweede video in het vorige kopstuk. Hiermee kon ik van een executable en een image een combinatie maken. Deze combinatie leidde tot 
 het bovenstaande bestand. Dit bestand is een pdf met daarin dus de executable, helaas kreeg ik ook deze niet via gmail.. Wel komt er een rootshell uit voort als de
 slachtoffer het bestand opent, zie onderstaande afbeelding.
+
+
 <img src="./images/SET/rootshell_reverse_evil_pdf.PNG" alt="E-mail headers" class="phish_img">
 <br />
+
+
 Helaas blokte gmail al mijn pogingen.. Mijn e-mail heb ik ook via een SMTP server weten te versturen, hierin zag je wel de e-mail staan. Als ik deze server open op de Windows
 machine en de e-mail bekijk, kan ik wel het bestand uitvoeren wat leidt tot een rootshell. 
 <img src="./images/SET/gmail_blocks.PNG" alt="E-mail headers" class="phish_img">
+
+
+<br />
 De SMTP server:
+<br />
 <img src="./images/SET/smtp.PNG" alt="E-mail headers" class="phish_img">
 
 
