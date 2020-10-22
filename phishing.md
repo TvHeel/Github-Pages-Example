@@ -11,8 +11,6 @@ Deze tooling is gekozen, omdat het een handige (web)interface heeft; via deze in
 - De phishing pagina (bestaande importeren of zelf maken)
 - Ontvangers (met de optie voor een "test e-mail")
 
-### Bussiness Case
-
 ### Basis
 Zoals eerder gezegd heb ik dus voor de tooling GoPhish gekozen, hoe ik deze tooling heb gebruikt om phishingmails te configureren
 en te versturen staat hieronder uitgelegd:<br />
@@ -80,8 +78,57 @@ Echter, is het niet mogelijk om het Message-Id en de From e-mail headers aan te 
 kan je zien dat er namelijk in de bron van de e-mail staat dat het vanuit een kali machine verstuurd is d.m.v. GoPhish:
 <img src="./images/phishing/headers.PNG" alt="E-mail headers" class="phish_img">
 
+### Bussiness Case
+Ik heb onderzoek gedaan naar de disclaimer of breed gezegd de *Business case* van GoPhish. Nergens kreeg ik gevonden
+wat zij nou eigenlijk met de data doen die ik gekregen heb. Als voorbeeld, ik stuur een phishing mail naar me ouders voor het achterhalen van credentials.
+Zij vullen dit goed in, dus deze gegevens zijn legit, hoe weet ik dan dat GoPhish deze niet opslaat ergens om er vervolgens wellicht misbruik van te maken.
+Aangezien ik dit nergens kon vinden, ben ik de tooling minder gaan vertrouwen. Ik heb wel een alternatief kunnen vinden, namelijk [SET (Social-Engineering toolkit)](https://www.social-engineer.org/framework/se-tools/computer-based/social-engineer-toolkit-set/). 
+Deze tooling ligt helemaal in eigen hand, je bent hierbij dus niet afhankelijk van een derde partij(zoals GoPhish). Hier ben ik dan ook zeker van dat mijn gegevens ook **echt** bij 
+mij blijven.
+
+### Video's
+- [PDF payload creation](https://www.youtube.com/watch?v=rfsRFEfae_Y&ab_channel=RootSploit)
+- [EXE in PDF](https://www.youtube.com/watch?v=zCzk1nM0jnc&ab_channel=TechnoScience)
+
+### SET
+Het Social Engineering Framework is een informatiebron voor mensen die meer willen weten over de psychologische, fysieke en historische aspecten van social engineering.
+Je kan via deze command-line tool zelf deze aspecten uitproberen en oefenen.
+<br />
+<br />
+Ik heb geprobeerd via SET een phishing e-mail te sturen met een PDF(wat dus eigenlijk een pdf.exe was) als payload bijlage. Dit werkte niet zoals verwacht, omdat gmail een dergelijke bijlage niet accepteerde (.exe).
+Om die reden heb ik via een tutorial(eerste in de video lijst) een PDF payload kunnen maken om te kunnen sturen als bijlage.
+
+Allereerst heb ik script gemaakt via [autoit](https://www.autoitscript.com/site/), dit programma biedt de mogelijkheid om een executable te maken die in Windows(slachtoffer) gerund kan worden.
+Dit script ziet er als volgt uit: 
+<img src="./images/SET/au3_script.PNG" alt="autoit" class="phish_img">
+In dit script moet dan worden aangegeven wat de host is waarop geluisterd wordt en wat de payload is, dit gebeurt via het [shellter](https://www.shellterproject.com/) programma:
+<img src="./images/SET/shellter.PNG" alt="pdf" class="phish_img">
+De URL die in het script te zien is een PDF, deze PDF is een bestand die wordt geopend in de browser. Deze PDF moet dus een bestand zijn die de lezer aanspreekt, want waarom
+zou je hem anders downloaden? In dit geval heb ik gekozen voor de richting "investeren":
+<img src="./images/SET/pdf_open.PNG" alt="pdf" class="phish_img">
+In deze PDF zit dus stiekem een executable die op de achtergrond wordt uitgevoerd als de slachtoffer hem opent. Zodra deze gedownload is door de slachtoffer ziet hij 
+het volgende in de verkenner:
+<img src="./images/SET/pdf_in_verkenner.png" alt="pdf" class="phish_img">
+Dit bestand is gemaakt middels de tweede video in het vorige kopstuk. Hiermee kon ik van een executable en een image een combinatie maken. Deze combinatie leidde tot 
+het bovenstaande bestand. Dit bestand is een pdf met daarin dus de executable, helaas kreeg ik ook deze niet via gmail.. Wel komt er een rootshell uit voort als de
+slachtoffer het bestand opent, zie onderstaande afbeelding.
+<img src="./images/SET/rootshell_reverse_evil_pdf.PNG" alt="E-mail headers" class="phish_img">
+<br />
+Helaas blokte gmail al mijn pogingen.. Mijn e-mail heb ik ook via een SMTP server weten te versturen, hierin zag je wel de e-mail staan. Als ik deze server open op de Windows
+machine en de e-mail bekijk, kan ik wel het bestand uitvoeren wat leidt tot een rootshell. 
+<img src="./images/SET/gmail_blocks.PNG" alt="E-mail headers" class="phish_img">
+De SMTP server:
+<img src="./images/SET/smtp.PNG" alt="E-mail headers" class="phish_img">
+
+
+### Netwerk tekening + uitleg
+
+<img src="./images/SET/router_rule.png" alt="pdf" class="phish_img">
+
+
+
 ### Ouders
-De bovenstaande e-mail ga ik testen bij mijn ouders, die hier uiteraard niks van af weten. Op deze manier kan ik testen hoe mijn e-mail
+De phishing e-mail (via SET) ga ik testen bij mijn ouders, die hier uiteraard niks van af weten. Op deze manier kan ik testen hoe mijn e-mail
 functioneert, hoe echt hij lijkt en hoe "aware" mijn ouders zijn op dit gebied. <br />
                                                                                 <br />
                                                                                 Coming soon...

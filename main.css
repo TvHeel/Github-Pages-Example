@@ -340,6 +340,11 @@ header h1 {
 .flex {
     display: flex;
 }
+.buffer_img{
+    float: right;
+    width: 300px;
+    border-radius: 4px;
+}
 .phish_img{
     float: left;
     margin-right: 700px;

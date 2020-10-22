@@ -1,4 +1,4 @@
-<img src="./images/buffer-overflow/home_img.PNG" alt="Buffer overflow" class="phishing_img">
+<img src="./images/buffer-overflow/home_img.PNG" alt="Buffer overflow" class="buffer_img">
 <p style="margin-top: 14px;"> Een buffer is een geheugen opslag die tijdelijk data vasthoud terwijl de data van de ene plek naar de andere
 wordt overgezet. Een buffer overflow wordt veroorzaakt wanneer de volume van de data de geheugen opslag(buffer) overschrijdt.
 Als gevolg hiervan wordt de data in meerdere geheugen opslagen overschreden.
@@ -23,8 +23,8 @@ Ik hoop dan ook dat door het begrijpen en kunnen van een buffer overflow, ik mij
 Deze ervaring kan ik dna gebruiken in komende pentesten die ik dit en komende jaren ga uitvoeren.
 
 ### Youtube video's
-[Simple buffer overflow](https://www.youtube.com/watch?v=B4v56Ns3QhQ&ab_channel=JamesLyne)
-[Buffer overflow complex](https://www.youtube.com/watch?v=Rg_h-XIJ1c4&ab_channel=LiveOverflow)
+- [Simple buffer overflow](https://www.youtube.com/watch?v=B4v56Ns3QhQ&ab_channel=JamesLyne)
+- [Buffer overflow complex](https://www.youtube.com/watch?v=Rg_h-XIJ1c4&ab_channel=LiveOverflow)
 
 ### Buffer overflow eenvoudig
 Om het idee achter een buffer overflow te begrijpen heb ik een simpel code geschreven in C. Deze code is gevoelig voor een buffer overflow,
@@ -72,7 +72,7 @@ Deze code is 21 bytes lang, het return adres (EIP) is 4 bytes en de NOP is het r
 is bedoeld om te "glijden" tot het volgende geheugen adres. Overal waar naar een NOP adres verwezen wordt, "glijdt" het totdat het bij de uit te voeren code komt( je payload).
 <br /> Ter verduidelijking heb ik een video wat dit illustreert.
 
-<video width="400" controls>
+<video width="600" controls>
   <source src="./videos/NOP.mp4" type="video/mp4">
 </video>
 
