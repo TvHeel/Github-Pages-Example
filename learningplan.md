@@ -63,7 +63,7 @@ In de onderstaande tabel zijn de nummers van de bijbehorende uitdagingen of opdr
 | 7    |                                  | 4) Prepare towards a Red Team - Blue Team exercise|
 | 8    |                                  | * 3) Set up and perform a pen-test , 11) Look into the security of IoT or OT|
 | 9    | 7) Learn how to do reversing of smartphone                                 | 5) Work on challenge(s) of your personal interest                                                | (Reverse Engineering)
-| 10    | 6/5) lock picking and visiting visiting building|                                      |
+| 10    | 6/5) lock picking and visiting building|                                      |
 | 11   | own) buffer overflow             | 5) Work on challenge(s) of your personal interest|
 | 12   |                                  |                                                  |
 | 13   | own) Rubber ducky (scripting)    |                                                  |
