@@ -113,7 +113,8 @@ zou je hem anders downloaden? In dit geval heb ik gekozen voor de richting "inve
 
 
 In deze PDF zit dus stiekem een executable die op de achtergrond wordt uitgevoerd als de slachtoffer hem opent. Zodra deze gedownload is door de slachtoffer ziet hij 
-het volgende in de verkenner:
+het volgende in de verkenner:<br />
+
 <img src="./images/SET/pdf_in_verkenner.png" alt="pdf" class="phish_img" style="align:left;">
 
 
@@ -140,6 +141,7 @@ De SMTP server:
 ### Netwerk tekening + uitleg
 Ter verduidelijking van het phishing project, heb ik er een netwerk diagram bij gemaakt:
 <img src="./images/SET/netwerk.PNG" alt="pdf" class="phish_img" style="align:left;">
+<br />
 In de diagram is te zien dat de aanvaller (ik) een kali linux machine heeft waarop een GoPhish server draait. 
 Hier maakt de aanvaller dan een pagina aan die dient als de phishing site, deze staat dan op de GoPhish server.
 Om ervoor te zorgen dat het slachtoffer bij deze site kan, wordt poort 80 van de kali linux machine geforward.
