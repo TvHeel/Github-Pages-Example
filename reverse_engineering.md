@@ -54,9 +54,7 @@ In de folder */com* staat een bestand genaamd *example.java_app*, deze ziet er b
 - Het ziet er ingewikkelder uit, omdat alle lege lijnen weg zijn.
 - Er staat nu het nummer van het id bij het object i.p.v de ``enum`` zelf.
 
-### Iphone app
+### Kwetsbaarheidsanalyse (Should)
 
 
 
-
-### Echte leven
