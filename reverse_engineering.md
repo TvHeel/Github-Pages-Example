@@ -4,7 +4,9 @@ van producten of software te achterhalen. Dit kan bij concurrenten gebeuren, maa
 gebruik van maken. Ze zouden hierdoor een gerichtere pentest mee kunnen uitvoeren, doordat ze weten waar de eventuele
 zwakke plekken zitten in de software.
 </p>
-
+<br />
+<br />
+<br />
 ### Workshop
 Als introductie in reverse engineeering hebben we een workshop gehad van Max Kersten. Deze workshop
 was, ondanks dat deze erg lang duurde, wel leerzaam. Hij heeft me hiermee goed ingeleid in reverse engineering, denk hierbij
