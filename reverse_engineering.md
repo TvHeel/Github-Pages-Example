@@ -54,7 +54,49 @@ In de folder */com* staat een bestand genaamd *example.java_app*, deze ziet er b
 - Het ziet er ingewikkelder uit, omdat alle lege lijnen weg zijn.
 - Er staat nu het nummer van het id bij het object i.p.v de ``enum`` zelf.
 
-### Kwetsbaarheidsanalyse (Should)
+### Kwetsbaarheidsanalyse smartphone applicatie 1
+Ik heb een kwetsbaarheidsanalyse uitgevoerd op een android applicatie: Voor goud.
+Met deze applicatie kan je trainingschema's en voedingschema's bijhouden en je progressie hierin.
+Ik heb deze applicatie gekozen, omdat ik deze zelf ook gebruik en mijn vraagtekens heb bij de security van
+deze applicatie.
+
+Om te beginnen heb ik via 'apk-extractor' app de apk opgehaald. Deze apk heb ik omgezet naar een ZIP, om vanuit
+daar de *classes.dex* te bekijken. Dit is hieronder te zien: <br />
+<img src="./images/reverse-engineering/voor_goud/verkenner.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
+
+Er zijn twee *classes.dex*, beiden bestanden (omgezet naar jar) heb ik bekeken via de ``jd-gui``.<br /> 
+Het eerste *classes.dex* bestand kwam op mij over als een import op het *classes2.dex* bestand. Wat te herkennen is, is dat het wel in java gemaakt is. 
+Het eerste bestand bevat namelijk algemene klassen geïmporteerd van bestaande libraries of zelfs [deze](https://github.com/PhilJay/MPAndroidChart/tree/master/MPChartLib/src/main/java/com/github/mikephil/charting) github:<br />
+<img src="./images/reverse-engineering/voor_goud/github.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
+
+Deze github(die zorgt voor grafieken en animaties) wordt nogsteeds geüpdatet, het is de noodzaak dat de applicatie hier ook in mee gaat. Echter zie ik dat de github directory in de ``jd-gui`` een folder mist genaamd "model", dit
+houdt in dat gezien de repository de applicatie deze laatste 9 maanden niet geüpdatet heeft. <br />
+Bovendien is er ook "outdated" software gevonden in de packages die worden gebruikt, dit heeft betrekking tot de firebase dus **toch** zie ik dit als een kwetsbaarheid.
+<img src="./images/reverse-engineering/voor_goud/outdated_plugins.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
+<img src="./images/reverse-engineering/voor_goud/release_notes.PNG" alt="Verkenner voor goud" class="phish_img" style="align:right;">
+
+Verder heb ik in de code niks geks kunnen vinden, wel heb ik met de API geprobeerd data op te halen. De base url en de headers waren namelijk plain text in de code: <br />
+<img src="./images/reverse-engineering/voor_goud/jdgui.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
+
+Ik kon achterhalen dat ik een api token kon krijgen indien ik ingelogd was in de app, daarom heb ik via mijn android telefoon een MITM aanval willen simuleren. 
+Ik kreeg bij het opstarten van de app echter een error dat hij de gegevens niet kon laden (dit is doordat er HTTPS wordt gebruikt).
+Daardoor kon ik geen api token achterhalen, waardoor ik niet geauthenticeerd was:<br />
+<img src="./images/reverse-engineering/voor_goud/postman_unauthorized.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
+
+In de plain text header is een versie nummer genoemd, deze spoofen leverde helaas niks op: <br />
+<img src="./images/reverse-engineering/voor_goud/wrong_api_version.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
