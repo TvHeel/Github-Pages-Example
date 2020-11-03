@@ -1,4 +1,4 @@
-<img src=".../images/reverse-engineering/reverse-intro.jpg" alt="Intro image" class="phishing_img">
+<img src="../images/reverse-engineering/reverse-intro.jpg" alt="Intro image" class="phishing_img">
 <p style="margin-top: 14px;">Reverse engineering, ook wel backwards engineering genoemd, is het proces om de interne werking
 van producten of software te achterhalen. Dit kan bij concurrenten gebeuren, maar ook hackers kunnen hier 
 gebruik van maken. Ze zouden hierdoor een gerichtere pentest mee kunnen uitvoeren, doordat ze weten waar de eventuele
@@ -37,7 +37,7 @@ Allereerst maak ik van deze applicatie(een "Hello world" app) een apk bestand do
 <br/>
 Daarna ben heb ik van het .apk bestand een ZIP bestand gemaakt en uitgepakt. Daardoor is er nu een *classes.dex* bestand te zien:
 <br />
-<img src="../images/reverse-engineering/verkenner.PNG" alt="Reversed android app" class="phish_img" style="align:left;">
+<img src="./images/reverse-engineering/verkenner_classes_dex.PNG" alt="Reversed android app" class="phish_img" style="align:left;">
 
 Een DEX bestand is een executable die de gecompileerde code bevat and runt op het android platform.
 <br />
@@ -72,9 +72,10 @@ Het eerste bestand bevat namelijk algemene klassen geïmporteerd van bestaande l
 Deze github(die zorgt voor grafieken en animaties) wordt nogsteeds geüpdatet, het is de noodzaak dat de applicatie hier ook in mee gaat. Echter zie ik dat de github directory in de ``jd-gui`` een folder mist genaamd "model", dit
 houdt in dat gezien de repository de applicatie deze laatste 9 maanden niet geüpdatet heeft. <br />
 Bovendien is er ook "outdated" software gevonden in de packages die worden gebruikt, dit heeft betrekking tot de firebase dus **toch** zie ik dit als een kwetsbaarheid.
-<img src="../images/reverse-engineering/voor_goud/outdated_plugins.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
-<img src="../images/reverse-engineering/voor_goud/release_notes.png" alt="Verkenner voor goud" class="phish_img" style="align:right;">
-
+<img src="../images/reverse-engineering/voor_goud/outdated_plugins.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;"> <br />
+De laatste versies zijn hieronder te zien: <br />
+<img src="../images/reverse-engineering/voor_goud/release_notes.png" alt="Verkenner voor goud" class="phish_img" style="align:left;">
+<br />
 Verder heb ik in de code niks geks kunnen vinden, wel heb ik met de API geprobeerd data op te halen. De base url en de headers waren namelijk plain text in de code: <br />
 <img src="../images/reverse-engineering/voor_goud/jdgui.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
 
