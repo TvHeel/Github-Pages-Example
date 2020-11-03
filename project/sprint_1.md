@@ -16,4 +16,22 @@ Verder ben ik officeel scrum master, dit wilde ik graag zelf om zo leiderschap t
 Aan het einde van elke sprint wordt er teruggekeken op het functioneren van zowel de groep als de individuen. Het doel is om aan de feedback van mijn groepsgenoten te werken, 
 met als doel om mij als professional te ontwikkelen. Het is de bedoeling dat ik bij elke sprint de feedback heb meegenomen en heb laten zien dat ik mezelf heb ontwikkeld.
 
+<img src="../images/project/peerreview2.PNG" alt="Review" class="phish_img" style="align:left;">
+Als groepsfeedback hebben we genoteerd dat we een goede rapportage hebben neergezet, ook de pentest zelf verliep heel goed.
+Bovendien hebben we als groep goed gezorgd voor een uitbreiding van de scope. Het was namelijk zo dat er weinig taken waren in verhouding
+met het aantal personen in de groep. Natuurlijk hebben we taken steeds goed verdeeld, alleen toch hebben we ervoor gekozen de scope ui te breiden. Persoonlijk
+vind ik het dan ook goed dat/hoe wij dit gedaan hebben. <br />
+
+Wel was het feedbackpunt, die vanuit meerdere kwam, dat er meer kennis verspreid moet worden onder de groepsgenoten. Aangezien dit vorige keer ook een feedbackpunt was
+en hier niet veel mee gedaan was, gaan we dit deze keer beter aanpakken. Wij gaan als groep elke vrijdag een stand-down doen waarin iedereen zijn (opgedane) kennis deelt met de groep.
+Hierdoor wordt iedereen er meer bij betrokken en doet iedereen meer kennis op.
+
+
+Met mijn eigen feedback ben ik tevreden, want met de feedback van [sprint 0](https://tvheel.github.io/project/sprint_0) heb ik verbeterd. Ik voelde mezelf ook minder
+'afwezig' tijdens gesprekken, ook kreeg ik meer mee van de meningen/ideeën van de andere. <br />
+De feedback voor volgende sprint is om het Jira board up-to-date te houden, want soms staan er soms nog issues in die al egdaan zijn of weg kunne,
+Dit was niet echt gerelateerd op mij, het is namelijk ook een groepsfeedback. Echter, omdat ik de scrum master ben moet ik wat meer aandacht aan geven.
+<br />
+De fucntie scrum master beviel me erg goed en vond het heel leerzaam om te doen.
+
 
