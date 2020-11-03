@@ -10,7 +10,7 @@ Veel apparaten in de maatschappij worden steeds meer afhankelijk van het interne
 apparaten niet altijd optimaal is. Om hier onderzoek naar te doen en hiermee aan de slag te gaan, heb ik voor INTERSECT gekozen.
 Ik kijk er naar uit om dit R&D project te mogen doen. Persoonlijk vind ik het geweldig om bij te mogen dragen aan de veiligheid van IOT apparaten.
 
-<img src="./images/INTERSECT.PNG" alt="INTERSECT" class="INTERSECT">
+<img src="../images/INTERSECT.PNG" alt="INTERSECT" class="INTERSECT">
 
 Wonder boven wonder wilden meerdere groepsgenoten dit en kregen wij dit project toegewezen. <br/> 
 Na veel overleggen en interviews houden met desbetreffende stakeholders is voor ons de opdracht duidelijk geworden. 

@@ -21,7 +21,7 @@ Hier verwacht ik namelijk mezelf meer te kunnen ontwikkelen op het gebied van le
 Aan het einde van elke sprint wordt er teruggekeken op het functioneren van zowel de groep als de individuen. Het doel is om aan de feedback van mijn groepsgenoten te werken,
 met als doel om mij als professional te ontwikkelen. Het is de bedoeling dat ik bij elke sprint de feedback heb meegenomen en heb laten zien dat ik mezelf heb ontwikkeld.
 
-<img src="./images/project/peerreview1.PNG" alt="Review" class="phish_img" style="align:left;">
+<img src="../images/project/peerreview1.PNG" alt="Review" class="phish_img" style="align:left;">
 Als groepsfeedback hebben we genoteerd dat we veel taken op ons nemen en die ook af krijgen. Bovendien gaan de meetings op projectdagen erg vlot en functioneren wij als team
 erg goed. Hier ben ik het ook volledig mee eens, omdat de opdracht op het begin erg vaag was. We wisten niet wat wij moesten doen en de communicatie met de stakeholders was er nauwelijks.
 Als team hebben wij dit goed aangepakt en hebben we flinke stappen gemaakt met het project, zowel communicatief als technisch. <br />

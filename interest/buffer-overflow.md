@@ -1,4 +1,4 @@
-<img src="./images/buffer-overflow/home_img.PNG" alt="Buffer overflow" class="buffer_img">
+<img src="../images/buffer-overflow/home_img.PNG" alt="Buffer overflow" class="buffer_img">
 <p style="margin-top: 14px;"> Een buffer is een geheugen opslag die tijdelijk data vasthoud terwijl de data van de ene plek naar de andere
 wordt overgezet. Een buffer overflow wordt veroorzaakt wanneer de volume van de data de geheugen opslag(buffer) overschrijdt.
 Als gevolg hiervan wordt de data in meerdere geheugen opslagen overschreden.
@@ -70,11 +70,7 @@ De kunst is nu om een payload te creëren die binnen het aantal bytes valt en de
 payload gevonden die een reverse shell creëert naar het systeem. Deze shell code is als volgt: ``\x31\xc9\xf7\xe1\xb0\x0b\x51\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\xcd\x80``.
 Deze code is 21 bytes lang, het return adres (EIP) is 4 bytes en de NOP is het resterende dus 55 bytes. Waarom NOP? NOP staat voor No operation sled en dit 
 is bedoeld om te "glijden" tot het volgende geheugen adres. Overal waar naar een NOP adres verwezen wordt, "glijdt" het totdat het bij de uit te voeren code komt( je payload).
-<br /> Ter verduidelijking heb ik een video wat dit illustreert.
-
-<video width="600" controls>
-  <source src="./videos/NOP.mp4" type="video/mp4">
-</video>
+<br />
 
 Door middel van Python heb ik de exploit gemaakt en ga ik hem via de ``gdb`` versturen, ik verwacht dat ik hiermee een shell krijg.
 <img src="./images/buffer-overflow/complex/shell_one.PNG" alt="Buffer overflow simple code" class="phish_img">

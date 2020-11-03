@@ -1,4 +1,4 @@
-<img src="./images/reverse-engineering/reverse-intro.jpg" alt="Intro image" class="phishing_img">
+<img src="../images/reverse-engineering/reverse-intro.jpg" alt="Intro image" class="phishing_img">
 <p style="margin-top: 14px;">Reverse engineering, ook wel backwards engineering genoemd, is het proces om de interne werking
 van producten of software te achterhalen. Dit kan bij concurrenten gebeuren, maar ook hackers kunnen hier 
 gebruik van maken. Ze zouden hierdoor een gerichtere pentest mee kunnen uitvoeren, doordat ze weten waar de eventuele
@@ -73,7 +73,7 @@ Deze github(die zorgt voor grafieken en animaties) wordt nogsteeds geüpdatet, h
 houdt in dat gezien de repository de applicatie deze laatste 9 maanden niet geüpdatet heeft. <br />
 Bovendien is er ook "outdated" software gevonden in de packages die worden gebruikt, dit heeft betrekking tot de firebase dus **toch** zie ik dit als een kwetsbaarheid.
 <img src="./images/reverse-engineering/voor_goud/outdated_plugins.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
-<img src="./images/reverse-engineering/voor_goud/release_notes.PNG" alt="Verkenner voor goud" class="phish_img" style="align:right;">
+<img src="./images/reverse-engineering/voor_goud/release_notes.png" alt="Verkenner voor goud" class="phish_img" style="align:right;">
 
 Verder heb ik in de code niks geks kunnen vinden, wel heb ik met de API geprobeerd data op te halen. De base url en de headers waren namelijk plain text in de code: <br />
 <img src="./images/reverse-engineering/voor_goud/jdgui.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">

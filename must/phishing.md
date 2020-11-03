@@ -1,4 +1,4 @@
-<img src="./images/phishing.jpg" alt="Phishing" class="phishing_img">
+<img src="../images/phishing.jpg" alt="Phishing" class="phishing_img">
 <p style="margin-top: 14px;">Phishing is een vorm van digitale oplichting. Dit gaat vaak via via e-mail, WhatsApp of sms. 
 Slachtoffers worden vaak misleidt en gaan ze naar een valse website waar ze hun bank- of andere persoonlijke inloggegevens prijsgeven. 
 Of ze maken zelfs een bedrag over naar een fraudeur die zich voordoet als bijvoorbeeld familie. 
@@ -115,7 +115,7 @@ zou je hem anders downloaden? In dit geval heb ik gekozen voor de richting "inve
 In deze PDF zit dus stiekem een executable die op de achtergrond wordt uitgevoerd als de slachtoffer hem opent. Zodra deze gedownload is door de slachtoffer ziet hij 
 het volgende in de verkenner:<br />
 
-<img src="./images/SET/pdf_in_verkenner.png" alt="pdf" class="phish_img" style="align:left;">
+<img src="../images/SET/pdf_in_verkenner.png" alt="pdf" class="phish_img" style="align:left;">
 
 
 Dit bestand is gemaakt middels de tweede video in het vorige kopstuk. Hiermee kon ik van een executable en een image een combinatie maken. Deze combinatie leidde tot 
@@ -123,7 +123,7 @@ het bovenstaande bestand. Dit bestand is een pdf met daarin dus de executable, h
 slachtoffer het bestand opent, zie onderstaande afbeelding.
 
 
-<img src="./images/SET/rootshell_reverse_evil_pdf.PNG" alt="E-mail headers" class="phish_img" style="align:left;">
+<img src="../images/SET/rootshell_reverse_evil_pdf.PNG" alt="E-mail headers" class="phish_img" style="align:left;">
 <br />
 
 
@@ -135,7 +135,7 @@ machine en de e-mail bekijk, kan ik wel het bestand uitvoeren wat leidt tot een 
 <br />
 De SMTP server:
 <br />
-<img src="./images/SET/smtp.PNG" alt="E-mail headers" class="phish_img" style="align:left;">
+<img src="../images/SET/smtp.PNG" alt="E-mail headers" class="phish_img" style="align:left;">
 
 
 ### Netwerk tekening + uitleg
