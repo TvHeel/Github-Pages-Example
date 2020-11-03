@@ -406,3 +406,38 @@ header h1 {
 
 .dropdown:hover .dropdown-content {display: block;}
 
+/* Cards */
+
+.card {
+    transition: 0.3s;
+    width: 26%;
+    border-radius: 5px; /* 5px rounded corners */
+    margin: 0 auto;
+    border: 1px solid #29aafe;
+}
+
+.card:hover {
+    cursor: pointer;
+}
+
+
+/* Add rounded corners to the top left and the top right corner of the image */
+.card img {
+    border-radius: 5px 5px 0 0;
+    height: 162px;
+    border: 0;
+    margin-left: -6px;
+}
+
+.flex {
+    display: flex;
+}
+
+.container h4 {
+    text-align: center;
+    font-size: 18px;
+}
+
+.intersect_img {
+    height: 350px;
+}
