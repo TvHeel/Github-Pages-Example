@@ -4,7 +4,7 @@ Welkom bij mijn e-portfolio! Dit e-portfolio is opgesteld ter verantwoording van
 
 <div class="flex">
     <div class="card" onclick="location.href='{{site.baseurl}}/personal/learningplan';">
-        <img src="./images/results/plan.png" alt="Learning plan" style="width:100%">
+        <img src="./images/results/plan.png" alt="Learning plan" style="width:100%; margin-left: 1px;">
         <div class="container">
             <h4><b>Learning plan</b></h4>
         </div>
