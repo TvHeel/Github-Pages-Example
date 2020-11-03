@@ -29,7 +29,7 @@ Na onderzoek en de workshop gehad te hebben zijn er een aantal tools die handig 
 ### Android app
 Allereerst wil ik op een simpele android app reverse engineering toepassen. Hiervoor moet ik eerst een 
 android app in elkaar zetten. In deze app heb ik als test een knop aangemaakt die weergeeft "Deze button is een test". Het is de bedoeling dat ik via 
-reversing dit te zien krijg, zodat ik weet dat het gewerkt heeft.
+reversing dit te zien krijg, zodat ik weet dat het gewerkt heeft.<br />
 <img src="../images/reverse-engineering/original.PNG" alt="Original code" class="phish_img" style="align:left;">
 
 
@@ -71,7 +71,7 @@ Het eerste bestand bevat namelijk algemene klassen geïmporteerd van bestaande l
 
 Deze github(die zorgt voor grafieken en animaties) wordt nogsteeds geüpdatet, het is de noodzaak dat de applicatie hier ook in mee gaat. Echter zie ik dat de github directory in de ``jd-gui`` een folder mist genaamd "model", dit
 houdt in dat gezien de repository de applicatie deze laatste 9 maanden niet geüpdatet heeft. <br />
-Bovendien is er ook "outdated" software gevonden in de packages die worden gebruikt, dit heeft betrekking tot de firebase dus **toch** zie ik dit als een kwetsbaarheid.
+Bovendien is er ook "outdated" software gevonden in de packages die worden gebruikt, dit heeft betrekking tot de firebase dus **toch** zie ik dit als een kwetsbaarheid.<br />
 <img src="../images/reverse-engineering/voor_goud/outdated_plugins.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;height: 400px;"> <br />
 De laatste versies zijn hieronder te zien: <br />
 <img src="../images/reverse-engineering/voor_goud/release_notes.png" alt="Verkenner voor goud" class="phish_img" style="align:left; height: 400px;">

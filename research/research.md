@@ -12,4 +12,4 @@ Het resultaat van deze tool is allemaal beschreven in dit
 <a href="./files/TvH_TICT.pdf" download>document</a>.
 
 ### R&D project
-Voor verdere documentatie rondom het R&D project zie <a href="https://tvheel.github.io/project">hier</a>
+Voor verdere documentatie rondom het R&D project zie <a href="https://tvheel.github.io/project/project">hier</a>
