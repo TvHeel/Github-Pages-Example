@@ -4,7 +4,7 @@ heb ik gemaakt met meerdere studenten, maar hier heb ik wel het voortouw in geno
 <br /> Tijdens de pentest heb ik de volgende dingen (mee) gevonden die benoemingswaardig zijn:
 - Geen beveiliging op alle endpoints in de backend, als gebruiker met minder rechten kan je alle endpoints gebruiken. Dit moet wel met een geldig JWT token.
 - Er zitten geen checks in de hele applicatie, vaak krijg je errors of erger nog. Er zit netjes een check of je een geldig JWT token hebt, **maar** niet bij wat voor
-gebruiker dit hoort. Je kan dus alles met een gebruiker doen wat een administrator ook kan, zolang je maar een geldig JWT token hebt.
+rol dit hoort. Je kan dus alles met een gebruiker doen wat een administrator ook kan, zolang je maar een geldig JWT token hebt.
 - Bij het aanmaken van sensoren, gebruikers en dergelijke kan je attributen weg/leeg laten en het systeem maakt het gewoon aan.
 - De site scoort op [security headers](https://securityheaders.com/) een dikke onvoldoende!
 

@@ -17,10 +17,10 @@ Na veel overleggen en interviews houden met desbetreffende stakeholders is voor 
 
 Het idee achter het project van INTERSECT is om de veiligheid omtrent IOT apparaten te verhogen.
 Dit bedoeling van dit project is om een set guidelines te maken voor IOT apparaten binnen de volgende categorieën:
-- Smart health
+- Smart Health
 - Smart City
 - Smart Mobility
-- Smart industrie
+- Smart Industry
 
 Deze categorieën zijn gekozen, omdat IOT heel breed is. Wij kunnen dit niet voor alle IOT sectoren security guidelines gaan schrijven en daarom is de **scope** afgebakend.
 De projecten waar wij mee aan de slag gaan zijn de Smart Office en Airscrubber.
