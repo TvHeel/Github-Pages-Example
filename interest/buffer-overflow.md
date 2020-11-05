@@ -1,4 +1,4 @@
-<img src="../images/buffer-overflow/home_img.PNG" alt="Buffer overflow" class="buffer_img">
+<img src="../images/buffer-overflow/home_img.PNG" alt="Buffer overflow" class="buffer_img" style="align:left;">
 <p style="margin-top: 14px;"> Een buffer is een geheugen opslag die tijdelijk data vasthoud terwijl de data van de ene plek naar de andere
 wordt overgezet. Een buffer overflow wordt veroorzaakt wanneer de volume van de data de geheugen opslag(buffer) overschrijdt.
 Als gevolg hiervan wordt de data in meerdere geheugen opslagen overschreden.
@@ -49,7 +49,7 @@ wat vooral belangrijk is is hoe het geheugen daarmee omgaat.< br />
 De code bevat verschillende methoden, *overflow* is daar één van. In deze methode zie je dat er gewerkt wordt met een buffer van 64 bytes. Het gevaar hierin is
 dat deze invoer wordt gekopieerd in de buffer. Hieronder is te zien dat ik een breakpoint gezet heb na de functie van *overflow*. Dit heb ik gedaan om te zien wat er gebeurt
 met het geheugen, nadat er een invoer is geweest bij het programma. <br />
-<img src="../images/buffer-overflow/complex/breakpoint.PNG" alt="Buffer overflow simple code" class="phish_img" style="align:left;">
+<img src="../images/buffer-overflow/complex/breakpoint.PNG" alt="Buffer overflow simple code" class="phish_img" style="align:left;"><br />
 Een logische stap is om nu te achterhalen waar de stack begint in het geheugen en hoeveel bytes je hebt tot het EIP(Extended Instruction Pointer).
 Met de stack wordt de 'ruimte' in het geheugen bedoeld waar de data wordt opgeslagen. De EIP is get adres in de stack die de computer verteld waar in het geheugen
 naar toe gegaan moet worden nadat er een commando uitgevoerd, dit bepaald de flow van het programma.
@@ -57,7 +57,7 @@ naar toe gegaan moet worden nadat er een commando uitgevoerd, dit bepaald de flo
 <br />
 Om dit te kunnen vinden heb ik allereerst de code normaal uitgevoerd door 63 bytes te sturen(maximaal 64 geaccepteerd). Hierdoor stuit het programma
 op de breakpoint, dat betekent dat het programma succesvol is uitgevoerd. In dit geval zou het geheugen veranderd moeten zijn. <br />
-<img src="../images/buffer-overflow/complex/63bytes.PNG" alt="Buffer overflow simple code" class="phish_img" style="align:left;">
+<img src="../images/buffer-overflow/complex/63bytes.PNG" alt="Buffer overflow simple code" class="phish_img" style="align:left;"><br />
 Door middel van het ``i frame`` commando, kunnen registers waar onder andere EIP in zit bekeken worden. Dit geeft weer dat het EIP zit op
 ``0xffffd19c``. Daarna haal ik het geheugen op rondom deze EIP en hier zie je dat de inderdaad veel ``41`` staan. Dit is de payload
 die ik heb ingevoerd("A" is namelijk 41 in het geheugen).<br /> Op dit moment weet ik dus dat:
