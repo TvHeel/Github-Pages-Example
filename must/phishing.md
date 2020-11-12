@@ -99,7 +99,7 @@ Ik heb geprobeerd via SET een phishing e-mail te sturen met een PDF(wat dus eige
 Om die reden heb ik via een tutorial(eerste in de video lijst) een PDF payload kunnen maken om te kunnen sturen als bijlage.
 
 Allereerst heb ik script gemaakt via [autoit](https://www.autoitscript.com/site/), dit programma biedt de mogelijkheid om een executable te maken die in Windows(slachtoffer) gerund kan worden.
-Dit script ziet er als volgt uit: 
+Dit script ziet er als volgt uit:<br />
 <img src="../images/SET/au3_script.PNG" alt="autoit" class="phish_img" style="align:left;">
 
 

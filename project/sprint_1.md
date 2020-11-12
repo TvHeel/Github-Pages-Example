@@ -8,7 +8,7 @@ rol dit hoort. Je kan dus alles met een gebruiker doen wat een administrator ook
 - Bij het aanmaken van sensoren, gebruikers en dergelijke kan je attributen weg/leeg laten en het systeem maakt het gewoon aan.
 - De site scoort op [security headers](https://securityheaders.com/) een dikke onvoldoende!
 
-De bijbehorende rapportage is <a class="downloadlink" onClick="passwd('./files/Airscrubber-Report.docx','Rapportage Airscrubber')">hier</a> te zien.
+De bijbehorende rapportage is <a class="downloadlink" onClick="passwd('../files/Airscrubber-Report.docx','Rapportage Airscrubber')">hier</a> te zien.
 
 Verder ben ik officeel scrum master, dit wilde ik graag zelf om zo leiderschap te kunnen leren. <br />
 

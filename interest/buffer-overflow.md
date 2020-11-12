@@ -43,7 +43,7 @@ Om het idee achter een buffer overflow te begrijpen heb ik een simpel code gesch
 Nu een complexere uitvoering van een buffer overflow, het is een eenvoudig script maar de uitvoering gaat in de diepte. Het programma is in C code geschreven,
 over het algemeen zijn dergelijke programma's meer vatbaar voor buffer overflows. Echter, als invoer goed wordt afgevangen is er niks aan de hand.
 Bij dit programma is dat niet het geval: <br />
-<img src="../images/buffer-overflow/complex/code.PNG" alt="Code" class="phish_img" style="align:left;">
+<img src="../images/buffer-overflow/complex/code.PNG" alt="Code" class="phish_img" style="align:left;"><br />
 Allereerst ben ik met de ```gdb``` (GNU Debugger) het programma ingedoken. Met deze debugger kan je het programma debuggen en kijken hoe het programma reageert op verschillende invoer, maar
 wat vooral belangrijk is is hoe het geheugen daarmee omgaat.< br />
 De code bevat verschillende methoden, *overflow* is daar één van. In deze methode zie je dat er gewerkt wordt met een buffer van 64 bytes. Het gevaar hierin is

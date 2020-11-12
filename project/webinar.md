@@ -45,4 +45,4 @@ Casper Schellekens heeft vanuit onze school een presentatie gegeven, hierin heef
 Kort samengevat was het diepgaand, maar toch wel leerzame webinar. Ik heb hier zeker wat van opgestoken en ben bereid
 in de toekomst nog wel een webinar to volgen(wellicht over andere onderwerpen)!
 
-P.S ik heb hiervan screenshots gevonden, maar die ben ik helaas kwijt.
+P.S ik heb hiervan screenshots genomen, maar die ben ik helaas kwijt.

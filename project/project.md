@@ -39,11 +39,11 @@ Nadat iedereen dit gedaan had, zijn we tot één hoofdvraag gekomende met een aa
 Dit document is [hier](https://tvheel.github.io/research) te zien.
 
 **Initiatie document R&D**<br/>
-Het <a class="downloadlink" onClick="passwd('./files/Phase1.docs','Phase 1')">Initiatie document</a>
+Het <a class="downloadlink" onClick="passwd('../files/Phase1.docs','Phase 1')">Initiatie document</a>
   hebben wij achtereen volgend gemaakt. Dit document ddient als basis voor het project. Hier worden aspecten als stakeholder wensen, technologie en de huidige situatie aangekaart.
 
 **Onderzoeksplan R&D**<br/>
-Het <a class="downloadlink" onClick="downloadURI('./files/Research-plan.docx','Research plan')">onderzoeksplan</a> bevat wat wij willen onderzoeken, waarom, met wie, wanneer, waar en op welke manier. Ook komen hier
+Het <a class="downloadlink" onClick="downloadURI('../files/Research-plan.docx','Research plan')">onderzoeksplan</a> bevat wat wij willen onderzoeken, waarom, met wie, wanneer, waar en op welke manier. Ook komen hier
 'key success factors', planning en kwaliteits aspecten naar boven.
 
 

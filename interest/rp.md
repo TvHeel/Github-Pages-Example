@@ -4,9 +4,11 @@ Dit semester ga ik ook werken met een Raspberry PI Zero W. Voorafgaand had ik ni
 <img src="../images/rp.png" alt="Raspberry Pi Zero W" class="raspberry_img">
 
 ## Mogelijkheden
-
+Met deze Raspberry Pi Zero W zijn er een een flink aantal mogelijkheden 
 ## P4WNPI
 
 ## Payloads
 
 ## Covert channel
+
+## Rubber ducky
