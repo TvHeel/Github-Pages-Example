@@ -36,7 +36,7 @@ stakeholders, misbruik van het project, de impact op de maatschappij, maar ook d
 **Research Approach**<br/>
 Daarop volgend is er aandacht besteed aan de onderzoeksaanpak. Iedereen moest individueel deelvragen, een hoofdvragen en bijbehorende methodes uit het DOT-framework bedenken.
 Nadat iedereen dit gedaan had, zijn we tot één hoofdvraag gekomende met een aantal deelvragen. Alle beschreven methoden hebben wij bekeken om tot een goede triangulatie te komen.<br/>
-Dit document is [hier](https://tvheel.github.io/research) te zien.
+Dit document is [hier](https://tvheel.github.io/research/research) te zien.
 
 **Initiatie document R&D**<br/>
 Het <a class="downloadlink" onClick="passwd('../files/Phase1.docs','Phase 1')">Initiatie document</a>
