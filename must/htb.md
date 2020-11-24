@@ -16,7 +16,7 @@ Voor Hack The Box heb ik voor zowel Linux en Windows writeups gemaakt.
 <br />
 Om aan te tonen dat ik alle levels van hack the box gedaan heb, heb ik ook 'hard' boxes gedaan:
 
-<a class="downloadlink" onClick="passwd('../files/Unbalanced-writeup_TvH.docx','Linux (Unbalanced) writeup')">Linux (Unbalanced) writeup</a>
+<a class="downloadlink" onClick="passwd('../files/Unbalanced-Writeup.docx','Linux (Unbalanced) writeup')">Linux (Unbalanced) writeup</a>
 
 ![Unbalanced machine writeup](/images/htb/unbalanced.jpg){: height: 270px; width: 50%;"}
 <br />
