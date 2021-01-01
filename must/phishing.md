@@ -156,15 +156,36 @@ De regels in de router zijn hieronder te zien:
 
 ### Ouders
 De phishing e-mail (via SET) ga ik testen bij mijn ouders, die hier uiteraard niks van af weten. Op deze manier kan ik testen hoe mijn e-mail
-functioneert, hoe echt hij lijkt en hoe "aware" mijn ouders zijn op dit gebied. <br />
-                                                                                <br />
-                                                                                Coming soon...
+functioneert, hoe echt hij lijkt en hoe "aware" mijn ouders zijn op dit gebied.
+
 ### Citrus Andriessen
 [Citrus Andriessen](https://www.citrusandriessen.nl/) is een bedrijf die organisaties helpt bij de overstap van papier naar digitaal of het optimaliseren van je bestaande digitale toetsing.
-Dit bedrijf hebben wij gekozen om te gaan pentesten, hierin kan naast webapplicaties testen misschien ook andere testen gedaan worden. Denk hierbij
-aan Social Engineering of Phishing, dat laaste wil ik graag gaan proberen om de medewerker(s) van dit bedrijf te testen.<br />
-<br />
-Coming soon...
+Dit bedrijf hebben wij gekozen om te gaan pentesten, hierin is naast webapplicaties testen ook phishing uitgevoerd op de organisatie.
+
+Ter voorbereiding op de phishing mail zijn wij eerst een OSINT gaan doen. Hierin hebben wij onder andere gezocht naar de mederwerkers, functies, vacatures etc.
+Hiermee konden wij dus inschatten welke medewerker een goed slachtoffer zou zijn voor een phishing mail. 
+
+Hiervoor moet eerst onderzoek gedaan worden naar hoe wij de phishing mail gaan opstellen, het doel moet namelijk
+zijn dat het slachtoffer zich genoodzaakt voelt om bijvoorbeeld op een link te klikken en gegevens in te vullen. Naar alle sites te hebben doorzocht zijn wij tot de conclusie gekomen
+dat de phishing mail zihc focust op de WordPress van de organisatie zelf. Het doel van de mail zal worden dat het wachtwoordbeleid van WordPress wordt aangepast en het bestaande wachtwoord gewijzigd dient te worden.
+Indien dit niet gedaan zal worden, wordt het account geblokkeerd. De mail ziet er als volgt uit:
+<img src="../images/phishing/citrusandriessen_phishingmail.PNG" alt="Phishing mail WordPress" class="phish_img_login" style="align:left;">
+
+Nu we de phishing mail hebben en de e-mail adressen van de slachtoffers hebben ontbreekt er nog een ding, de phishing site.
+Het doel van deze phishing site is om het slachtoffer het oude wachtwoord van, een door de pentest naar voren gekomen username, te weten te komen. De phishing website zelf
+is gehost via fhict. Voor deze website heb ik een certificaat aangemaakt waardoor er een HTTPS verbinding is, dit vergroot de betrouwbaarheid. Bovendien heb ik ook
+nog een domein aangevraagd zoals te zien is in de link van de phising mail. Op deze manier zijn alle verdachte aspecten weggewerkt en lijkt dit net echt, alleen staat er niet ```.nl``` maar ```.ml```.
+De fake website zit er als volgt uit:
+<img src="../images/phishing/fake_wp_page.PNG" alt="Phishing site WordPress" class="phish_img_login" style="align:left;">
+
+De resultaten van de phishing mail waren er niet, maar er zijn wel heel veel slachtoffers die twijfelde aan de phishing mail. Deze mensen stuurde
+de email door naar hun leidinggevende en dat was onze opdrachtgever. In dit geval hadden wij eigenlijk het beste onze opdrachtgever kunnen phishen, maar hij wist er natuurlijk al van af.
+
+Hier zie je een e-mail van een twijfelaar:
+<img src="../images/phishing/twijfelaar_citrusandriessen.png" alt="Twijfelaar phishing" class="phish_img_login" style="align:left;">
+
+Ondanks dat niemand er in is getrapt heb ik hier wel veel van geleerd en neem ik alle leermomenten mee naar de volgende keer. Hopelijk heb ik 
+dan meer succes met het phishen.
 
 ### Advies
 Om te zorgen dat je niet in dergelijke phishing e-mails trapt zijn heb ik wat aandachtspunten geformuleerd:

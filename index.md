@@ -24,6 +24,8 @@ Welkom bij mijn e-portfolio! Dit e-portfolio is opgesteld ter verantwoording van
     </div>
 </div>
 
+
+
 Hieronder zijn alle leerdoelen beschreven en op welk niveau ik hierbij zit.
 
 ### Leerdoel 1: Personal development
@@ -50,7 +52,7 @@ You show that you are a  security specialist with the required technical and pro
 Technical Red teaming skills are related to (IT) security technical skills, such as (but not limited to): hacking techniques (scripting, enumeration, privesc, pivoting, covert channels, exploitation, cracking, ...), physical security (locks, physical access tokens), offensive hardware (rubber ducky, dropbox, etc.), different target platforms (IoT, OT, mobile, ..) and environments (Windows, Linux, Android, ...).
 
 ### Onderbouwing (Technical skills)
-I have done a lot of work on expanding my red teaming technical skills. I have learned a lot of hacking techniques from [Hack the Box](/results/htb) where I also learned how to target different platforms(Windows, Linux, OpenBSD), physical security aspects and offensive hardwared from using: P4wnp1, wifi pineapple, rubber ducky, packet squirrel and dropbox which I described in [P4wnP1](/results/p4wnp1) and [Tooling](/results/tooling). I also did IoT security testing described in [R&D Project](project).
+ik heb dit gedaan..
 
 <hr>
 
@@ -77,8 +79,7 @@ In a complex innovation oriented project setting, you show a methodical approach
 
 
 ### Onderbouwing (Technical R&D project skills)
-I think my Technical R&D project skills is at beginning, at this moment I have not yet described enough of our work that it's enough to confirm this learning outcome.
-I will expand this in the comming weeks.
+
 
 <hr>
 
