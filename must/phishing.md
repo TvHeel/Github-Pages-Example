@@ -152,11 +152,15 @@ die ervoor zorgt dat er een reverse shell opgezet kan worden. De request naar de
 De regels in de router zijn hieronder te zien:
 <img src="../images/SET/router_rule.png" alt="pdf" class="phish_img" style="align:left;">
 
-
-
 ### Ouders
-De phishing e-mail (via SET) ga ik testen bij mijn ouders, die hier uiteraard niks van af weten. Op deze manier kan ik testen hoe mijn e-mail
+Mijn ouders ga ik testen met een phishing mail, die hier uiteraard niks van af weten. Op deze manier kan ik testen hoe mijn e-mail
 functioneert, hoe echt hij lijkt en hoe "aware" mijn ouders zijn op dit gebied.
+
+De phishing mail die ik gestuurd heb was degene van het verlopen FaceBook wachtwoord. Zowel mijn moeder als vader kwamen naar mij toe om 
+aan mij te vragen of dit echt of nep was. Toen heb ik aangegeven dat het inderdaad een phishing mail was om hen te testen. Ze gaven hierbij aan
+dat de phishing mail zelf goed en geloofwaardig eruit zag, alleen voelden ze zich nog niet genoodzaakt genoeg om gegevens in te vullen.
+
+Deze leermomenten neem ik mee voor de volgende phishing poging!
 
 ### Citrus Andriessen
 [Citrus Andriessen](https://www.citrusandriessen.nl/) is een bedrijf die organisaties helpt bij de overstap van papier naar digitaal of het optimaliseren van je bestaande digitale toetsing.
@@ -191,7 +195,7 @@ dan meer succes met het phishen.
 Om te zorgen dat je niet in dergelijke phishing e-mails trapt zijn heb ik wat aandachtspunten geformuleerd:
 - Ga nooit via een link in een e-mail naar de website voor uw persoonlijke gegevens
 - Reageer nooit meteen op een dergelijke e-mail, criminelen gaan uit van een schokreactie
-- Twijfelt je? Meld het!
+- Twijfel je? Meld het!
 - Controleer de bron van de e-mail
 - Controleer of de URL van de link in de e-mail niet verdacht is.
 
