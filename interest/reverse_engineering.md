@@ -1,4 +1,4 @@
-<img src="../images/reverse-engineering/reverse-intro.jpg" alt="Intro image" class="phishing_img">
+    <img src="../images/reverse-engineering/reverse-intro.jpg" alt="Intro image" class="phishing_img">
 <p style="margin-top: 14px;">Reverse engineering, ook wel backwards engineering genoemd, is het proces om de interne werking
 van producten of software te achterhalen. Dit kan bij concurrenten gebeuren, maar ook hackers kunnen hier 
 gebruik van maken. Ze zouden hierdoor een gerichtere pentest mee kunnen uitvoeren, doordat ze weten waar de eventuele
