@@ -37,7 +37,10 @@ You show that you can plan, manage and evaluate your personal development and le
 
 
 ### Onderbouwing (Personal Development)
-test
+Wat betreft persoonlijke ontwikkeling vind ik dat ik op voldoende zit. Terug kijkend naar mijn leerplan vind ik dat ik het dit semester goed gedaan heb.
+Zo ben ik aspecten die ik graag zou willen verbeteren dit semester. Zo ben ik minder onzeker geworden over mijn werk en lukt het mij
+kort en bondiger te formuleren. Verder heb ik dit semester ook mijn technische vaardigheden verbreed en heb ik veel dingen geleerd, denk hierbij aan
+phishing, reverse engineering en boxes hacken (zie [resultaten](/results)).
 
 <hr>
 
@@ -52,17 +55,15 @@ You show that you are a  security specialist with the required technical and pro
 Technical Red teaming skills are related to (IT) security technical skills, such as (but not limited to): hacking techniques (scripting, enumeration, privesc, pivoting, covert channels, exploitation, cracking, ...), physical security (locks, physical access tokens), offensive hardware (rubber ducky, dropbox, etc.), different target platforms (IoT, OT, mobile, ..) and environments (Windows, Linux, Android, ...).
 
 ### Onderbouwing (Technical skills)
-ik heb dit gedaan..
-
-<hr>
-
-Procedural red teaming skills are related to working in a structured way and reporting activity and results.
-Working in a structured way: using proven (real world) methods/phases to perform pentests and red teaming operations, planning activities by considering efficiency combined with risk of damage and exposure. Working with written consent, ethically,  and in close cooperation with white team to prevent accidents.
-Reporting activity and results:  written report to client/blue team/development (accompanied with a presentation), registering performed red teaming activity (was it a red teamer or a malicious actor?), documenting security tests (secure code review report, what is and isn't tested). Written responsible disclosure and PoCs. Knowledge sharing with peers in the field (informal, online, conferences).
-
+Wat betreft technische vaardigheden vind ik dat ik op voldoende zit. Ik heb mijn goedgekeurde leerplan gevolgd en alle activiteiten gedaan die daarop stonden.
+Daarin heb ik ook aspecten meegenomen vanuit eigen interesse, denk hierbij aan de [P4WNP1](/interest/rp) en de [CTF](/interest/HTB-CTF). Indien
+mensen vragen hadden heb ik ze ook geholpen waar ik dat kon.
 
 ### Onderbouwing (Procedural skills)
-test
+Procedurele red teaming vaardigheden zijn gerelateerd aan het werken op een gestructureerde manier en het rapporteren van activiteiten en resultaten.
+Dit semester heb ik bij mijn activiteiten gewerkt op gestructureerde manieren. Bij Hack The Box (en andere pentesten) heb ik gewerkt via de
+cyber kill chain fasen en ook zo gestructureerd gerapporteerd. Verder heb ik ook een pentest gedaan bij het echt bedrijf, en hier goed mee gecommuniceerd en een Plan Van Aanpak(PvA) gemaakt.
+Knowledge sharing heb ik ook gedaan in het R&D project, dit ging dat met name over de resultaten die ik had met het pentesten.
 
 <hr>
 
@@ -79,15 +80,30 @@ In a complex innovation oriented project setting, you show a methodical approach
 
 
 ### Onderbouwing (Technical R&D project skills)
-
+Tijdens het R&D project denk ik dat ik mijn technische vraadigheden heb laten zien en ook veel geleerd heb.
+Zo heb ik de Airscrubber applicatie getest en daar ook mijn bevindingen uit kunnen halen, ondanks dat Rick hier al meteen mee aan de slag was gegaan.
+Ook heb ik gewerkt aan een smartwatch pentest, dit had ik nog nooit eerder gedaan. Hier heb ik uiteindelijk outdated software en PoC's van verschillende exploits. 
+Hiervan heb ik veel van kunnen leren. 
+Daarnaast heb ik samen met Marc ook mee gekeken naar de smartscreen voor het exploiteren van open poorten.
 
 <hr>
 
-{:.geh}
+
 ### Onderbouwing (Methodical R&D project process)
-test
+Ik denk dat mijn methodische werking in het R&D project op voldoende staat. Ten eerste werken wij als groep op een Agile manier,
+hierin heb ik zeker bijgedragen door mij aan te bieden voor verschillende functies binnen Scrum. Zo ben ik zowel de notaris als scrum master geweest.
+Scrum master was voor mij totaal nieuw, maar toch heb ik dit op me genomen en gaven mijn groepsgenoten hier positieve feedback op.
+Daarnaast heb ik ook tijdens pentesten en onderzoek methodisch gehandeld. Zo heb ik gepentest via de cyber kill chain, zie [hier](/project/project).
+Dit bevatten onder andere een ethische analyse en onderzoeksdocumenten. 
 
 <hr>
 
 ### Onderbouwing (Collaboration and Communication skills)
-test
+Persoonlijk vind ik dat samenwerking en communicatie vaardigheden voldoende zijn.
+Dit is namelijk, omdat:
+- ik overleg met mijn groepsleden over dilemma's die in mij opkomen.
+- de functie als de scrum master op mij he genomen.
+- elke sprint de tips en tops van mijn groepsgenoten meeneem naar de volgende sprint en hier in verbeter, zie sprints.
+- ik samen, met paar andere groepsgenoten, meetings heb gehad wat betreft verbeteringen aan de cloud infrastructure.
+- ik de leiderschap en communicatie met het pentestbedrijf op mij genomen heb.
+- ik een goede samenwerking heb gevormd met de andere groepsleden tijdens het R&D project.
