@@ -19,6 +19,6 @@ af en toe 'vertaald' voelt heb ik hier extra aandacht aan besteed. Verder heb ik
 Bovendien heeft er ook een buitenstaander, een kennis, dit artikel door gelezen en feedback gegeven.
 Een voorbeeld van de feedback is hieronder te zien:
 ![feedback Joel](../images/article/review.png){: height="350px" align="left"}
-
+<br />
 Verder heb ik aan de reviewers gevraagd wat zij van het artikel vonden en die gaven aan dat het, op de feedbackpunten na, een
 goed inhoudelijk artikel is. Vooral vonden ze de conclusie sterk naar voren komen.
