@@ -29,20 +29,22 @@ De projecten waar wij mee aan de slag gaan zijn de Smart Office en Airscrubber.
 Samen met de groep hebben wij eerst een **samenwerkingscontract** opgesteld, waarin alle regels staan waar je je aan moet houden.
 Denk hierbij aan afmelden, ziek melden en te laat komen. Verder zijn we aan de slag gegaan met het onderzoek.
 
-**TICT**<br/>
-Allereerst heb ik een ethische analyse gemaakt om een beter beeld te krijgen van het project. Er wordt hierin ingezoomd op onder andere aspecten als
-stakeholders, misbruik van het project, de impact op de maatschappij, maar ook de voordelen die het project biedt. Deze volledige analyse is gemaakt met de TICT tool en kan [hier](https://tvheel.github.io/research) gevonden worden.
+**TICT** <br />
+![TICT](https://tict.io/images/tict-logo.png){: width="250px" align="right"}
+Wat betreft ethische analyse heb ik de [TICT](https://tict.io/) tool gebruik, deze tooling dient als een raamwerk voor je onderzoek. Hierin ga je kijken naar ethische aspecten van je project, denk hierbij aan de impact op de maatschappij of van mogelijke criminelen. <br>
+Het resultaat van deze tool is allemaal beschreven in dit
+<a href="../files/TvH_TICT.pdf" download>document</a>.
 
-**Research Approach**<br/>
+**Research Approach** <br />
 Daarop volgend is er aandacht besteed aan de onderzoeksaanpak. Iedereen moest individueel deelvragen, een hoofdvragen en bijbehorende methodes uit het DOT-framework bedenken.
 Nadat iedereen dit gedaan had, zijn we tot één hoofdvraag gekomende met een aantal deelvragen. Alle beschreven methoden hebben wij bekeken om tot een goede triangulatie te komen.<br/>
-Dit document is [hier](https://tvheel.github.io/research/research) te zien.
+Dit document is <a href="../files/TvH_Research_Approach.docx" download>hier</a> te zien.
 
-**Initiatie document R&D**<br/>
+**Initiatie document R&D** <br />
 Het <a class="downloadlink" onClick="passwd('../files/Phase1.docs','Phase 1')">Initiatie document</a>
   hebben wij achtereen volgend gemaakt. Dit document ddient als basis voor het project. Hier worden aspecten als stakeholder wensen, technologie en de huidige situatie aangekaart.
 
-**Onderzoeksplan R&D**<br/>
+**Onderzoeksplan R&D** <br />
 Het <a class="downloadlink" onClick="downloadURI('../files/Research-plan.docx','Research plan')">onderzoeksplan</a> bevat wat wij willen onderzoeken, waarom, met wie, wanneer, waar en op welke manier. Ook komen hier
 'key success factors', planning en kwaliteits aspecten naar boven.
 

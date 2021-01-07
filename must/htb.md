@@ -18,11 +18,11 @@ Om aan te tonen dat ik alle levels van hack the box gedaan heb, heb ik ook 'hard
 
 <a class="downloadlink" onClick="passwd('../files/Unbalanced-Writeup.docx','Linux (Unbalanced) writeup')">Linux (Unbalanced) writeup</a>
 
-![Unbalanced machine writeup](/images/htb/unbalanced.jpg){: style="width: 500px; align:left;"}
+![Unbalanced machine writeup](/images/htb/unbalanced.jpg){: style="width: 550px; align:left;"}
 <br />
 ### Account
 Mijn Hack The Box account is [hier](https://www.hackthebox.eu/home/users/profile/393681) te vinden. <br>
-![Profile HTB](/images/htb/htb.PNG){: style="width: 300px; height: 85px; align:left;"}
+![Profile HTB](/images/htb/htb.PNG){: style="width: 500px; height: 85px; align:left;"}
 <br />
 
 

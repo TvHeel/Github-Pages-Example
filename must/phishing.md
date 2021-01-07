@@ -184,6 +184,8 @@ De fake website zit er als volgt uit:
 
 De resultaten van de phishing mail waren er niet, maar er zijn wel heel veel slachtoffers die twijfelde aan de phishing mail. Deze mensen stuurde
 de email door naar hun leidinggevende en dat was onze opdrachtgever. In dit geval hadden wij eigenlijk het beste onze opdrachtgever kunnen phishen, maar hij wist er natuurlijk al van af.
+De bevindingen/notities omtrent het social engineering onderzoek zijn strikt geheim en mogen niet gedeeld worden. Er is voor het bedrijf
+ook voor dit onderzoek een document gemaakt.
 
 Hier zie je een e-mail van een twijfelaar:
 <img src="../images/phishing/twijfelaar_citrusandriessen.png" alt="Twijfelaar phishing" class="phish_img_login" style="align:left;">

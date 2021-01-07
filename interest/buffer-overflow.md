@@ -83,8 +83,3 @@ Deze shell code is 41 bytes en wordt de NOP sled dus wat minder lang i.v.m. het 
 <img src="../images/buffer-overflow/complex/shell.PNG" alt="Buffer overflow simple code" class="phish_img" style="align:left;">
 Nu deze payload wordt verstuurd, zie je dat er een shell komt! Het werkt!
 
-
-### HTB
-Coming soon....
-
-

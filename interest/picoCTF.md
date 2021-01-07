@@ -1,6 +1,5 @@
-<img src="../images/ctf/picoctf/picoCTF.JPEG" alt="Intro image" class="pico_img" style="align:right;">
 Om meer te oefenen met CTF uitdagingen en om in de toekomst meer eravring te hebben met CTF's, ben ik bezig met verschillende
-CTF uitdagingen.
+Pico-CTF uitdagingen.
 
 ## Reverse engineering
 Reverse engineering is een onderdeel wat me erg aanspreekt en hier vind ik veel uitdaging in. Ik ben begonnen met de vault-door challenges.
@@ -17,7 +16,7 @@ o.a. reverse engineering. Om hier mee te oefenen heb ik picoCTF challenges gedaa
 
 Deze challenges waren zeer leuk om te doen, om wat dieper in te gaan op een assembly challenge ga ik die asm2 uitleggen.
 
-Deze challenge bood de volgende code:
+Deze challenge bood de volgende code: <br />
 <img src="../images/ctf/picoctf/asm2-code.PNG" alt="Asm challenge image" class="pico_img" style="align:left;">
 
 > What does asm2(0x4,0x2d) return?

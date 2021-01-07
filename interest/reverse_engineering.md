@@ -1,4 +1,4 @@
-    <img src="../images/reverse-engineering/reverse-intro.jpg" alt="Intro image" class="phishing_img">
+<img src="../images/reverse-engineering/reverse-intro.jpg" alt="Intro image" class="phishing_img">
 <p style="margin-top: 14px;">Reverse engineering, ook wel backwards engineering genoemd, is het proces om de interne werking
 van producten of software te achterhalen. Dit kan bij concurrenten gebeuren, maar ook hackers kunnen hier 
 gebruik van maken. Ze zouden hierdoor een gerichtere pentest mee kunnen uitvoeren, doordat ze weten waar de eventuele
@@ -87,7 +87,8 @@ Daardoor kon ik geen api token achterhalen, waardoor ik niet geauthenticeerd was
 In de plain text header is een versie nummer genoemd, deze spoofen leverde helaas niks op: <br />
 <img src="../images/reverse-engineering/voor_goud/wrong_api_version.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
 
-
+### CTF
+Verder heb ik, aangezien dit onderwerp me erg interesseert, CTF uitdagingen gedaan die op [deze](/interest/picoCTF) pagina te zien zijn.
 
 
 

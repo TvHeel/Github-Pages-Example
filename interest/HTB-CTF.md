@@ -30,5 +30,5 @@ Deze CTF heeft mij wel op een nieuwe weg gezet, in mijn (vrije) tijd ben ik meer
 ik op dit moment ook bezig met uitdagingen van de [picoCTF](https://picoctf.org/).
 
 ## Tot slot
-Ter bewijslast van de behaalde challenges hebben we een write-up [document(TODO!)]() gemaakt waarin alles staat.
+Ter bewijslast van de behaalde challenges hebben we een write-up document gemaakt waarin alles staat, deze is <a href="../files/HackTheBoxCTF2020FontysFHICT.pdf" download>hier</a> te zien.
 Verder gaan wij als groep van 10 man vaker CTF's spelen! Ik verheug me hier op!
