@@ -1,6 +1,11 @@
 ## Thomas van Heel - Cyber Security
 
-Welkom bij mijn e-portfolio! Dit e-portfolio is opgesteld ter verantwoording van de cyber security minor. Hierin wil ik jullie graag meenemen in mijn minor periode. Dit portfolio zal alles te maken hebben met cyber security, in het specifiek mijn gekozen richting: Red Teaming. Red Teaming heb ik gekozen, omdat hier mijn hart en intresses het meeste liggen. Alle aspecten van security spreken me aan, maar de aanvallende kant is de kant waar ik me graag in verder wil ontwikkelen. [Project(en)](https://tvheel.github.io/project), leermomenten, informatie etc. wordt allemaal beschreven.
+Welkom bij mijn e-portfolio! Dit e-portfolio is opgesteld ter verantwoording van de cyber security minor.
+Hierin wil ik jullie graag meenemen in mijn minor periode.
+Dit portfolio zal alles te maken hebben met cyber security, in het specifiek mijn gekozen richting: red teaming.
+Red teaming heb ik gekozen, omdat hier mijn hart en intresses het meeste liggen. 
+Alle aspecten van security spreken me aan, maar de aanvallende kant is de kant waar ik me graag in verder wil ontwikkelen.
+[Project(en)](/project/), leermomenten, informatie etc. wordt allemaal beschreven.
 <br />
 <br />
 <div class="flex">
@@ -10,7 +15,7 @@ Welkom bij mijn e-portfolio! Dit e-portfolio is opgesteld ter verantwoording van
             <h4><b>Learning plan</b></h4>
         </div>
     </div>
-    <div class="card" onclick="location.href='{{site.baseurl}}/project/project';">
+    <div class="card" onclick="location.href='{{site.baseurl}}/project/';">
         <img src="./images/results/project.png" alt="R&D project" style="width:100%">
         <div class="container">
             <h4><b>R&D project</b></h4>
@@ -38,7 +43,7 @@ You show that you can plan, manage and evaluate your personal development and le
 
 ### Onderbouwing (Personal Development)
 Wat betreft persoonlijke ontwikkeling vind ik dat ik op voldoende zit. Terug kijkend naar mijn leerplan vind ik dat ik het dit semester goed gedaan heb.
-Zo ben ik aspecten die ik graag zou willen verbeteren dit semester. Zo ben ik minder onzeker geworden over mijn werk en lukt het mij
+Zo waren er aspecten die ik verbeterd wat betreft persoonlijke ontwikkeling dit semester. Zo ben ik minder onzeker geworden over mijn werk en lukt het mij
 kort en bondiger te formuleren. Verder heb ik dit semester ook mijn technische vaardigheden verbreed en heb ik veel dingen geleerd, denk hierbij aan
 phishing, reverse engineering en boxes hacken (zie [resultaten](/results)).
 
@@ -52,16 +57,16 @@ You show that you are a  security specialist with the required technical and pro
 |   Technical skills as a security specialist   |   Your portfolio shows that you are a technical security expert with  complete and in-depth knowledge and skills, and that you can help,  inform and assist others.                          |   Your portfolioshows  that you can perform the main  technical specialist tasks in a skilled manner and the teacher has  confirmed this by providing positive feedback.                                   |   Your portfolio shows first technical learningactivities and products  as a security specialist. Teacher feedback shows that the quality of  your skills is satisfactory.                  |   You have started developing your technical security skills, but not  produced and evaluated any completed learning activities yet.                                    |   Your portfolio does not yet demonstrate any progression as a  technical security specialist, or the demonstration is not clear enough  for the teachers.                                   |
 |   Procedural skills as a security specialist  |   Your portfolio shows that you have demonstrated AND IMPROVED security  procedures and reporting products for the chosen specialism. Teachers  have confirmed this with positive feedback.  |   In your portfolio you demonstrateand evaluate the main procedural best-practices and reporting productsof a security specialist, and the teacher has confirmed this by providing positive feedback.      |   Your portfolio shows your first procedural activities and reporting  products as a security specialist. Teacher feedback shows that the  quality of your skills is satisfactory.          |   You have started developing your procedural and reporting skills as a security specialist, but not produced and evaluated any completed learning activities yet.      |   Your portfolio does not yet demonstrate any progress on the  procedural and reporting side of being a security specialist, or the  demonstration is not clear enough for the teachers.     |
 
-Technical Red teaming skills are related to (IT) security technical skills, such as (but not limited to): hacking techniques (scripting, enumeration, privesc, pivoting, covert channels, exploitation, cracking, ...), physical security (locks, physical access tokens), offensive hardware (rubber ducky, dropbox, etc.), different target platforms (IoT, OT, mobile, ..) and environments (Windows, Linux, Android, ...).
+Technical red teaming skills are related to (IT) security technical skills, such as (but not limited to): hacking techniques (scripting, enumeration, privesc, pivoting, covert channels, exploitation, cracking, ...), physical security (locks, physical access tokens), offensive hardware (rubber ducky, dropbox, etc.), different target platforms (IoT, OT, mobile, ..) and environments (Windows, Linux, Android, ...).
 
 ### Onderbouwing (Technical skills)
 Wat betreft technische vaardigheden vind ik dat ik op voldoende zit. Ik heb mijn goedgekeurde leerplan gevolgd en alle activiteiten gedaan die daarop stonden.
 Daarin heb ik ook aspecten meegenomen vanuit eigen interesse, denk hierbij aan de [P4WNP1](/interest/rp) en de [CTF](/interest/HTB-CTF). Indien
-mensen vragen hadden heb ik ze ook geholpen waar ik dat kon.
+mensen vragen hadden heb ik ze ook geholpen waar ik kon.
 
 ### Onderbouwing (Procedural skills)
 Procedurele red teaming vaardigheden zijn gerelateerd aan het werken op een gestructureerde manier en het rapporteren van activiteiten en resultaten.
-Dit semester heb ik bij mijn activiteiten gewerkt op gestructureerde manieren. Bij Hack The Box (en andere pentesten) heb ik gewerkt via de
+Dit semester heb ik bij mijn activiteiten gewerkt op gestructureerde manieren. Bij [Hack The Box](/must/htb) (en andere pentesten) heb ik gewerkt via de
 cyber kill chain fasen en ook zo gestructureerd gerapporteerd. Verder heb ik ook een pentest gedaan bij het echt bedrijf, en hier goed mee gecommuniceerd en een Plan Van Aanpak(PvA) gemaakt.
 Knowledge sharing heb ik ook gedaan in het R&D project, dit ging dat met name over de resultaten die ik had met het pentesten.
 
@@ -82,7 +87,7 @@ In a complex innovation oriented project setting, you show a methodical approach
 ### Onderbouwing (Technical R&D project skills)
 Tijdens het R&D project denk ik dat ik mijn technische vraadigheden heb laten zien en ook veel geleerd heb.
 Zo heb ik de Airscrubber applicatie getest en daar ook mijn bevindingen uit kunnen halen, ondanks dat Rick hier al meteen mee aan de slag was gegaan.
-Ook heb ik gewerkt aan een smartwatch pentest, dit had ik nog nooit eerder gedaan. Hier heb ik uiteindelijk outdated software en PoC's van verschillende exploits. 
+Ook heb ik gewerkt aan een smartwatch pentest, dit had ik nog nooit eerder gedaan. Hier heb ik uiteindelijk outdated software en PoC's van verschillende exploits gevonden. 
 Hiervan heb ik veel van kunnen leren. 
 Daarnaast heb ik samen met Marc ook mee gekeken naar de smartscreen voor het exploiteren van open poorten.
 
@@ -93,7 +98,7 @@ Daarnaast heb ik samen met Marc ook mee gekeken naar de smartscreen voor het exp
 Ik denk dat mijn methodische werking in het R&D project op voldoende staat. Ten eerste werken wij als groep op een Agile manier,
 hierin heb ik zeker bijgedragen door mij aan te bieden voor verschillende functies binnen Scrum. Zo ben ik zowel de notaris als scrum master geweest.
 Scrum master was voor mij totaal nieuw, maar toch heb ik dit op me genomen en gaven mijn groepsgenoten hier positieve feedback op.
-Daarnaast heb ik ook tijdens pentesten en onderzoek methodisch gehandeld. Zo heb ik gepentest via de cyber kill chain, zie [hier](/project/project).
+Daarnaast heb ik ook tijdens pentesten en onderzoek methodisch gehandeld. Zo heb ik gepentest via de cyber kill chain, zie [hier](/project/).
 Dit bevatten onder andere een ethische analyse en onderzoeksdocumenten. 
 
 <hr>
@@ -102,7 +107,7 @@ Dit bevatten onder andere een ethische analyse en onderzoeksdocumenten.
 Persoonlijk vind ik dat samenwerking en communicatie vaardigheden voldoende zijn.
 Dit is namelijk, omdat:
 - ik overleg met mijn groepsleden over dilemma's die in mij opkomen.
-- de functie als de scrum master op mij he genomen.
+- de functie als de scrum master op mij heb genomen.
 - elke sprint de tips en tops van mijn groepsgenoten meeneem naar de volgende sprint en hier in verbeter, zie sprints.
 - ik samen, met paar andere groepsgenoten, meetings heb gehad wat betreft verbeteringen aan de cloud infrastructure.
 - ik de leiderschap en communicatie met het pentestbedrijf op mij genomen heb.

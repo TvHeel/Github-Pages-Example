@@ -34,7 +34,7 @@ Via de P4WNP1 SSH shell kan ik via het ```screens``` commando de shell ophalen o
 Het enige nadeel is dat de P4WNP1 wel in de range van het doelwit moet zijn om de covert channel verbonden te houden.
 
 
-##Exfiltratie Windows
+## Exfiltratie Windows
 Exfiltratie scripts zijn handig, voor hackers die bepaalde data willen verkrijgen van het slachtoffer. Deze data kan
 zeer gevoelig zijn; denk aan configuratie - en backup bestanden, wachtwoorden of persoonlijke gegevens.
 
@@ -45,7 +45,7 @@ hiervan kan het best wel even duren voordat de exfiltratie voltooid is. Wel kan 
 Hieronder is een video van hoe een dergelijke exfiltratie van txt bestanden eruit ziet:
 
 <video controls>
-  <source src="../videos/exfil-win.mp4" type="video/mp4">
+  <source src="../videos/exfil-win.webm" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -59,10 +59,8 @@ onderscheppen.
 Hieronder is een video te zien hoe dit met een BadUSB werkt:
 
 <video controls>
-  <source src="../videos/wifi-keys.mp4" type="video/mp4">
+  <source src="../videos/wifi-keys.webm" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-## Wachtwoord host
-Coming soon..
 

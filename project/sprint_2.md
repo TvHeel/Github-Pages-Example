@@ -20,11 +20,11 @@ Als groepsfeedback hebben we genoteerd dat we beter het Jira board moeten gebrui
  
  Buiten dit om lopen wij wel op schema en dat is erg positief. Verder zijn alle pentesten goed verlopen en hebben we mooie resultaten gehaald uit deze testen.
  
-Met mijn eigen feedback ben ik tevreden, want t.o.v. de feedback van [sprint 1](https://tvheel.github.io/project/sprint_1) ben ik verbeterd. Ik ben als scrum master
+Met mijn eigen feedback ben ik tevreden, want t.o.v. de feedback van [sprint 1](/project/sprint_1) ben ik verbeterd. Ik ben als scrum master
 meer bezig geweest met hoe het met de taken op het board zit. Zo ben ik achter mensen aangegaan over wat ze doen, hoe ver ze zijn etc.
 Elke ochtend maak ik voor iedereen duidelijk wat ze moeten doen die dag. Ook mijn groep geeft als feedback aan dat ik goed verbeterd ben als
 scrum master. Dit is mijn eerste jaar en ben daarom erg tevreden.<br /> 
 Verder hebben ze aangegeven dat ik goed onderzoek voorafgaand aan een pentest/opdracht.<br /><br />
 De feedback voor volgende sprint is om meer aandacht te besteden aan documentatie die ik maak. Even alles nakijken op spelfouten, verwijzingen,
-verkeerde zinsopbouw etc. Zo wordt niet alleen de kwaliteit, maar ook de profesionaliteit van het document verhoogd.
+verkeerde zinsopbouw etc. Zo wordt niet alleen de kwaliteit, maar ook de professionaliteit van het document verhoogd.
 

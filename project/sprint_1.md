@@ -27,7 +27,7 @@ en hier niet veel mee gedaan was, gaan we dit deze keer beter aanpakken. Wij gaa
 Hierdoor wordt iedereen er meer bij betrokken en doet iedereen meer kennis op.
 
 
-Met mijn eigen feedback ben ik tevreden, want t.o.v. de feedback van [sprint 0](https://tvheel.github.io/project/sprint_0) ben ik verbeterd. Ik voelde mezelf ook minder
+Met mijn eigen feedback ben ik tevreden, want t.o.v. de feedback van [sprint 0](/project/sprint_0) ben ik verbeterd. Ik voelde mezelf ook minder
 'afwezig' tijdens gesprekken, ook kreeg ik meer mee van de meningen/ideeën van de andere. <br />
 De feedback voor volgende sprint is om het Jira board up-to-date te houden, want soms staan er soms nog issues in die al egdaan zijn of weg kunne,
 Dit was niet echt gerelateerd op mij, het is namelijk ook een groepsfeedback. Echter, omdat ik de scrum master ben moet ik wat meer aandacht aan geven.
