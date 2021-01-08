@@ -29,8 +29,11 @@ Echter, is dit niet zomaar een reverse shell, maar een covert shell. Dit een she
 
 In de onderstaande video zie je dat ik een enkele stappen/seconden een verborgen reverse shell opgezet heb. De connectie
 tussen de P4WNP1 en het doelwit is langzaam, maar niet traceerbaar. Dit komt, omdat het via een covert W-Fi channel plaats vindt.
-Via de P4WNP1 SSH shell kan ik via het ```screens``` commando de shell ophalen o.b.v. de sessie.
-
+Via de P4WNP1 SSH shell kan ik via het ```screen``` commando de shell ophalen o.b.v. de sessie. 
+<br />Hieronder zie je de executie van de code:
+![p4wnp1 exec code](../images/covert%20channel.png) <br />
+Dit resulteert in een persistent reverse shell:
+![covert channel](../images/wifi_c2.PNG) <br /> <br />
 Het enige nadeel is dat de P4WNP1 wel in de range van het doelwit moet zijn om de covert channel verbonden te houden.
 
 

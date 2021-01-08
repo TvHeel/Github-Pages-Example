@@ -89,7 +89,8 @@ Tijdens het R&D project denk ik dat ik mijn technische vraadigheden heb laten zi
 Zo heb ik de Airscrubber applicatie getest en daar ook mijn bevindingen uit kunnen halen, ondanks dat Rick hier al meteen mee aan de slag was gegaan.
 Ook heb ik gewerkt aan een smartwatch pentest, dit had ik nog nooit eerder gedaan. Hier heb ik uiteindelijk outdated software en PoC's van verschillende exploits gevonden. 
 Hiervan heb ik veel van kunnen leren. 
-Daarnaast heb ik samen met Marc ook mee gekeken naar de smartscreen voor het exploiteren van open poorten.
+Daarnaast heb ik samen met Marc ook mee gekeken naar de smartscreen voor het exploiteren van open poorten, zie dit ook op de [site](https://marcvanbommel.github.io/project/smart_screen)
+van marc.
 
 <hr>
 
@@ -98,7 +99,9 @@ Daarnaast heb ik samen met Marc ook mee gekeken naar de smartscreen voor het exp
 Ik denk dat mijn methodische werking in het R&D project op voldoende staat. Ten eerste werken wij als groep op een Agile manier,
 hierin heb ik zeker bijgedragen door mij aan te bieden voor verschillende functies binnen Scrum. Zo ben ik zowel de notaris als scrum master geweest.
 Scrum master was voor mij totaal nieuw, maar toch heb ik dit op me genomen en gaven mijn groepsgenoten hier positieve feedback op.
-Daarnaast heb ik ook tijdens pentesten en onderzoek methodisch gehandeld. Zo heb ik gepentest via de cyber kill chain, zie [hier](/project/).
+Daarnaast heb ik ook tijdens pentesten en onderzoek methodisch gehandeld. Onderzoek is gedaan door middel van de [IoT research methods]() en dit is ook terug
+te zien in de onderzoeksdocumenten: <a href="../files/Research-plan.docx" download>Research Approach</a> en <a href="../files/TvH_Research_Approach.docx" download>Research Approach individueel</a>.
+Ook heb ik tijdens het R&D project gepentest op basis van de [OWASP Top 10](), dit is terug te zien in [dit TODO]() rapport.
 Dit bevatten onder andere een ethische analyse en onderzoeksdocumenten. 
 
 <hr>
