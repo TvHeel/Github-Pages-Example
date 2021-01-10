@@ -29,4 +29,17 @@ In het feedbackgesprek kwamen een aantal punten naar boven zoals:<br>
 - Dat ik moet bellen naar Citrus Andriessen, als ze niet op de mail reageren.
 - Voor elke machine een writeup maken synchroon met de test.
 
-Ron was zag het positief in en denkt dat het helemaal goed gaat komen.
+Ron zag het positief in en denkt dat het helemaal goed gaat komen.
+
+### Moment 4
+7'01'2021 heb ik een vierde gesprek gehad met Ron. Dit gesprek had ik aangevraagd om te kijken hoe ik ervoor sta in verband met de eindbeoordeling.
+Aangezien Ron gaat over de professionele ontwikkeling heb ik aan hem hierover feedback gevraagd.
+
+In het gesprek kwamen een aantal punten naar boven zoals:<br>
+- aspecten als scrum master en notaris uitleggen
+- goed uitleggen welke methodiek(en) ik gebruikt heb bij pentests
+- feedback vragen aan Joel en Anouk ter verantwoording voor mijn ontwikkeling
+- STARR methode maken van verantwoordingen in de samenwerking en communicatie vaardigheden.
+- persoonlijke ontwikkelingspunten toevoegen (top 3)
+
+Ron was (op deze feedbackpuntjes na) positief en heeft daarom mijn eindbeoordeling naar 14 januari verplaats in plaats van 28 januari.
