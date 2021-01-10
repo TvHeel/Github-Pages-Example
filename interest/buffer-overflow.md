@@ -64,7 +64,8 @@ die ik heb ingevoerd("A" is namelijk 41 in het geheugen).<br /> Op dit moment we
  - het EIP zit op **0xffffd19c**
  - Return adres **0xffffd168**, midden in de stack
  - de stack is 80 bytes groot (geel), want tot en met de payload is 62 bytes. Hier komen nog 18 bytes bij tot en met de EIP overschreven is (rood).
- <br />
+   
+<br />
 <img src="../images/buffer-overflow/complex/63bytes_uitleg.PNG" alt="Uitleg bytes lengte" class="phish_img" style="align:left;">
 
 De kunst is nu om een payload te creëren die binnen het aantal bytes valt en de rest op te vullen met ``\x90``, de NOP. NOP Op internet heb ik een

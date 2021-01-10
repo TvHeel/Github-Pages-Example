@@ -10,8 +10,10 @@ om te zien dat ik dingen doe naar mijn eigen interesse.
 
 ### Moment 2
 15'11'2020 heb ik een feedback moment gehad met Stefan Rooijers, mijn vakdocent. Hierin hebben we mijn leerplanning, activiteiten en doelen bekeken.
-De feedback die ik van hem heb ontvangen is hieronder te zien:
+De feedback die ik van hem heb ontvangen is hieronder te zien: <br />
+
 <img src="../images/feedback/stefan_moment_2.PNG" alt="Feedback Stefan Rooijers" class="buffer_img" style="align:left;">
+<br />
 
 Hier was ik tevreden over en ga me vol focussen op de laatste aspecten die ik nog wil gaan doen.
 Bovendien zal ik mijn portfolio zelf nog professionaliseren en verduidelijken.

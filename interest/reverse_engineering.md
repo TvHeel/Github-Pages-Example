@@ -54,7 +54,7 @@ In de folder */com* staat een bestand genaamd *example.java_app*, deze ziet er b
 - Het ziet er ingewikkelder uit, omdat alle lege lijnen weg zijn.
 - Er staat nu het nummer van het id bij het object i.p.v de ``enum`` zelf.
 
-### Kwetsbaarheidsanalyse smartphone applicatie 1
+### Kwetsbaarheidsanalyse smartphone applicatie
 Ik heb een kwetsbaarheidsanalyse uitgevoerd op een android applicatie: Voor goud.
 Met deze applicatie kan je trainingschema's en voedingschema's bijhouden en je progressie hierin.
 Ik heb deze applicatie gekozen, omdat ik deze zelf ook gebruik en mijn vraagtekens heb bij de security van
@@ -62,7 +62,7 @@ deze applicatie.
 
 Om te beginnen heb ik via 'apk-extractor' app de apk opgehaald. Deze apk heb ik omgezet naar een ZIP, om vanuit
 daar de *classes.dex* te bekijken. Dit is hieronder te zien: <br />
-<img src="../images/reverse-engineering/voor_goud/verkenner.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
+<img src="../images/reverse-engineering/voor_goud/verkenner.PNG" alt="Verkenner voor goud" class="normal_img" style="align:left;">
 
 Er zijn twee *classes.dex*, beiden bestanden (omgezet naar jar) heb ik bekeken via de ``jd-gui``.<br /> 
 Het eerste *classes.dex* bestand kwam op mij over als een import op het *classes2.dex* bestand. Wat te herkennen is, is dat het wel in java gemaakt is. 
@@ -82,7 +82,7 @@ Verder heb ik in de code niks geks kunnen vinden, wel heb ik met de API geprobee
 Ik kon achterhalen dat ik een api token kon krijgen indien ik ingelogd was in de app, daarom heb ik via mijn android telefoon een MITM aanval willen simuleren. 
 Ik kreeg bij het opstarten van de app echter een error dat hij de gegevens niet kon laden (dit is doordat er HTTPS wordt gebruikt).
 Daardoor kon ik geen api token achterhalen, waardoor ik niet geauthenticeerd was:<br />
-<img src="../images/reverse-engineering/voor_goud/postman_unauthorized.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
+<img src="../images/reverse-engineering/voor_goud/postman_unauthorized.PNG" alt="Verkenner voor goud" class="normal_img">
 
 In de plain text header is een versie nummer genoemd, deze spoofen leverde helaas niks op: <br />
 <img src="../images/reverse-engineering/voor_goud/wrong_api_version.PNG" alt="Verkenner voor goud" class="phish_img" style="align:left;">
