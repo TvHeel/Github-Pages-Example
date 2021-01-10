@@ -31,7 +31,7 @@ In de onderstaande video zie je dat ik een enkele stappen/seconden een verborgen
 tussen de P4WNP1 en het doelwit is langzaam, maar niet traceerbaar. Dit komt, omdat het via een covert W-Fi channel plaats vindt.
 Via de P4WNP1 SSH shell kan ik via het ```screen``` commando de shell ophalen o.b.v. de sessie. 
 <br />Hieronder zie je de executie van de code:
-![p4wnp1 exec code](../images/covert%20channel.png) <br />
+![p4wnp1 exec code](../images/covert%20channel.png){: class="normal_img"}<br />
 Het enige nadeel is dat de P4WNP1 wel in de range van het doelwit moet zijn om de covert channel verbonden te houden.
 
 
