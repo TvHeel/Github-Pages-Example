@@ -19,19 +19,19 @@ en te versturen staat hieronder uitgelegd:<br />
 Allereerst heb ik GoPhish gedownload via het commando ``go get github.com/gophish/gophish``. 
 Als je in de map gaat waar het gedownload is bevindt zich een bestand genaamd ***gophish***, voor deze uit door: ```./gophish```
 in te voeren. In de terminal krijg je te zien dat GoPhish opstart en je hem kan bereiken op http://127.0.0.1:3333. <br /> 
-<img src="../images/phishing/GoPhish_adminpage.PNG" alt="Inlogpagina GoPhish" class="normal_img">
+<img src="../images/phishing/GoPhish_adminpage.PNG" alt="Inlogpagina GoPhish" class="phish_img" style="align:left;">
 
 **Stap 2**<br />
 Hierna heb ik de User Groups aangemaakt in de webinterface. De User en Groups zijn eigenlijk de daadwerkelijke ontvangers van de phishing mail.
 De ontvanger(s) is in dit geval mijn eigen gmail om te kunnen testen dat deze aankomt.
-<img src="../images/phishing/Users.PNG" alt="Users GoPhish" class="normal_img"">
+<img src="../images/phishing/Users.PNG" alt="Users GoPhish" class="phish_img" style="align:left;">
 
 **Stap 3**<br />
 Stap 3 is de stap waarin de "Landing page" wordt gemaakt, ook wel de phishing site genoemd. Deze site is de site waar het slachtoffer
 op kan klikken in de e-mail, echter is dit dus de phishing site. Om dit zo echt mogelijk te laten lijken ben ik gegaan voor Facebook. Waarom ik hiervoor gekozen hebt wordt in
 de volgende stap duidelijk gemaakt. <br /> 
 Hieronder is de (geïmporteerde) phishing website te zien:
-<img src="../images/phishing/landing_page_fb.PNG" alt="Landing page GoPhish" class="normal_img">
+<img src="../images/phishing/landing_page_fb.PNG" alt="Landing page GoPhish" class="phish_img" style="align:left;">
 
 **Stap 4**<br />
 De e-mail die ik zelf gemaakt heb is een e-mail die hoort bij de "Landing page". Het scenario hiervan is als volgt:
@@ -39,7 +39,7 @@ Het slachtoffer krijgt een e-mail binnen waarin staat dat er een recente inlogpo
 Het slachtoffer schiet hierbij in paniek en gaat naar de aangegeven ondersteuningswebsite om het wachtwoord te wijzigen. Echter, moet 
 diegene hier wel voor ingelogd zijn. Daardoor komt de slachtoffer op de inlogpagina zoals in stap 3 te zien is en vult uit paniek 
 zijn/haar gegevens in en vóila de gegevens komen in GoPhish tevoorschijn.
-<img src="../images/phishing/e_mail.PNG" alt="Campaign GoPhish" class="normal_img">
+<img src="../images/phishing/e_mail.PNG" alt="Campaign GoPhish" class="phish_img" style="align:left;">
 
 **Stap 5**<br />
 Om een e-mail te kunnen verzenden moet er wel eerst een server worden opgezet om vanuit te kunnen versturen.
@@ -49,12 +49,13 @@ ook zien wat de headers, spam rate enzovoort is.
 **Stap 6**<br />
 Om de definitieve mail te kunnen versturen moet de "Campaign" aangemaakt worden. De Campaign zorgt ervoor dat
 de e-mail wordt verstuurd met alle bij behorende configuraties. Via deze Campaign kunnen allerlei resultaten van de phishing mail bekeken worden.
-Hieronder is te zien hoe de Campaign gemaakt kan worden, De URL is de url waar de slachtoffer naartoe wordt gestuurd.
+Hieronder is te zien hoe de Campaign gemaakt kan worden, De URL is de url waar de slachtoffer naartoe wordt gestuurd. <br />
+
 <img src="../images/phishing/Campaign.PNG" alt="Campaign GoPhish" class="normal_img">
 
 **Resultaat**<br />
 Alle gegevens omtrent de e-mail kunnen bekeken worden in de Campaign. Hieronder is te zien hoe het resultaat is als de data gesubmit is:
-<img src="../images/phishing/credentials_shown.PNG" alt="Campaign GoPhish" class="normal_img">
+<img src="../images/phishing/credentials_shown.PNG" alt="Campaign GoPhish" class="phish_img" style="align:left;">
 Zoals je ziet kan je ook live volgen of het slachtoffer de e-mail geopend heeft, de link geklikt heeft, gegevens heeft ingevuld etc.
 
 ***Notitie***<br />
@@ -71,7 +72,8 @@ Ter verbetering van de phishing mail zou het mooi zijn als:
 Het is gelukt om de filter te bypassen en mijn phishing mail in de inbox te krijgen, van notabene gmail:
 <img src="../images/phishing/Inbox.PNG" alt="Inbox gmail" class="phish_img" style="align:left;">
 
-Bovendien heb ik de phishing mail verbeterd en ziet deze er nu zo uit:
+Bovendien heb ik de phishing mail verbeterd en ziet deze er nu zo uit:<br />
+
 <img src="../images/phishing/e-mail2.PNG" alt="E-mail nieuw" class="normal_img">
 
 Echter, is het niet mogelijk om het Message-Id en de From e-mail headers aan te passen, zodat dit niet verdacht is. Hieronder
@@ -123,19 +125,19 @@ het bovenstaande bestand. Dit bestand is een pdf met daarin dus de executable, h
 slachtoffer het bestand opent, zie onderstaande afbeelding.
 
 
-<img src="../images/SET/rootshell_reverse_evil_pdf.PNG" alt="E-mail headers" class="normal_img">
+<img src="../images/SET/rootshell_reverse_evil_pdf.PNG" alt="E-mail headers" class="phish_img" style="align:left;">
 <br />
 
 
 Helaas blokte gmail al mijn pogingen.. Mijn e-mail heb ik ook via een SMTP server weten te versturen, hierin zag je wel de e-mail staan. Als ik deze server open op de Windows
 machine en de e-mail bekijk, kan ik wel het bestand uitvoeren wat leidt tot een shell. 
-<img src="../images/SET/gmail_blocks.PNG" alt="E-mail headers" class="normal_img">
+<img src="../images/SET/gmail_blocks.PNG" alt="E-mail headers" class="phish_img" style="align:left;">
 
 
 <br />
 De SMTP server:
 <br />
-<img src="../images/SET/smtp.PNG" alt="E-mail headers" class="normal_img">
+<img src="../images/SET/smtp.PNG" alt="E-mail headers" class="phish_img" style="align:left;">
 
 
 ### Netwerk tekening + uitleg
@@ -172,22 +174,27 @@ Hiermee konden wij dus inschatten welke medewerker een goed slachtoffer zou zijn
 Hiervoor moet eerst onderzoek gedaan worden naar hoe wij de phishing mail gaan opstellen, het doel moet namelijk
 zijn dat het slachtoffer zich genoodzaakt voelt om bijvoorbeeld op een link te klikken en gegevens in te vullen. Naar alle sites te hebben doorzocht zijn wij tot de conclusie gekomen
 dat de phishing mail zihc focust op de WordPress van de organisatie zelf. Het doel van de mail zal worden dat het wachtwoordbeleid van WordPress wordt aangepast en het bestaande wachtwoord gewijzigd dient te worden.
-Indien dit niet gedaan zal worden, wordt het account geblokkeerd. De mail ziet er als volgt uit:
+Indien dit niet gedaan zal worden, wordt het account geblokkeerd. De mail ziet er als volgt uit:<br />
+
 <img src="../images/phishing/citrusandriessen_phishingmail.PNG" alt="Phishing mail WordPress" class="normal_img">
 
 Nu we de phishing mail hebben en de e-mail adressen van de slachtoffers hebben ontbreekt er nog een ding, de phishing site.
 Het doel van deze phishing site is om het slachtoffer het oude wachtwoord van, een door de pentest naar voren gekomen username, te weten te komen. De phishing website zelf
 is gehost via fhict. Voor deze website heb ik een certificaat aangemaakt waardoor er een HTTPS verbinding is, dit vergroot de betrouwbaarheid. Bovendien heb ik ook
 nog een domein aangevraagd zoals te zien is in de link van de phising mail. Op deze manier zijn alle verdachte aspecten weggewerkt en lijkt dit net echt, alleen staat er niet ```.nl``` maar ```.ml```.
-De fake website zit er als volgt uit:
-<img src="../images/phishing/fake_wp_page.PNG" alt="Phishing site WordPress" class="normal_img">
+De fake website zit er als volgt uit:<br />
+
+<img src="../images/phishing/fake_wp_page.PNG" alt="Phishing site WordPress" style="    width: 500px;
+height: 550px;
+align: left;">
 
 De resultaten van de phishing mail waren er niet, maar er zijn wel heel veel slachtoffers die twijfelde aan de phishing mail. Deze mensen stuurde
 de email door naar hun leidinggevende en dat was onze opdrachtgever. In dit geval hadden wij eigenlijk het beste onze opdrachtgever kunnen phishen, maar hij wist er natuurlijk al van af.
 De bevindingen/notities omtrent het social engineering onderzoek zijn strikt geheim en mogen niet gedeeld worden. Er is voor het bedrijf
 ook voor dit onderzoek een document gemaakt.
 
-Hier zie je een e-mail van een twijfelaar:
+Hier zie je een e-mail van een twijfelaar:<br />
+
 <img src="../images/phishing/twijfelaar_citrusandriessen.png" alt="Twijfelaar phishing" class="normal_img">
 
 Ondanks dat niemand er in is getrapt heb ik hier wel veel van geleerd en neem ik alle leermomenten mee naar de volgende keer. Hopelijk heb ik 
