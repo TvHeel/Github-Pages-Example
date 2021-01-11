@@ -355,6 +355,7 @@ header h1 {
 
 .flex {
     display: flex;
+    margin-bottom: 20px;
 }
 .buffer_img{
     float: right;
