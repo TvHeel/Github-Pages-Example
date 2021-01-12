@@ -109,9 +109,41 @@ Dit bevatten onder andere een ethische analyse en onderzoeksdocumenten.
 ### Onderbouwing (Collaboration and Communication skills)
 Persoonlijk vind ik dat samenwerking en communicatie vaardigheden voldoende zijn.
 Dit is namelijk, omdat:
-- ik overleg met mijn groepsleden over dilemma's die in mij opkomen.
-- de functie als de scrum master op mij heb genomen.
-- elke sprint de tips en tops van mijn groepsgenoten meeneem naar de volgende sprint en hier in verbeter, zie sprints.
-- ik samen, met paar andere groepsgenoten, meetings heb gehad wat betreft verbeteringen aan de cloud infrastructure.
-- ik de leiderschap en communicatie met het pentestbedrijf op mij genomen heb.
-- ik een goede samenwerking heb gevormd met de andere groepsleden tijdens het R&D project.
+- **ik overleg met groepsleden over dilemma's die in mij opkomen.**<br />
+  Joel en ik waren aan het discussiëren over de aanpak van de smartwatch pentest. Mijn taak hierin was om samen met joel een goede pentest uit te voeren op een smartwatch
+  De actie die ik heb genomen is om Joel te overtuigen dat het beter was om eerst onderzoek te doen naar al eerder gedane pentesten. Hierdoor zouden
+  wij een beter beeld kunnen krijgen over hoe we een smartwatch konden testen. Joel was van mening om gewoon meteen te beginnen. Het resultaat was
+  dat we een aantal PoC's van kwetsbaarheden gevonden hadden en deze mogelijk konden gaan uitbuiten. Uiteindelijk hebben we de kwetsbaarheid niet
+  kunnen uitbuiten, omdat de tooling die wij gebruikten niet kon verbinden met de smartwatch. Wel was dit een goede aanpak, vooral als je iets moet testen
+  wat je nog nooit eerder gedaan hebt.
+- **de functie als de scrum master op mij heb genomen.**<br />
+  Als groep moesten wij aan het einde van de sprint Scrum rollen wisselen. Mijn taak was om hierover mee te bepalen wie welke rol kreeg.
+  Toen heb ik gezegd dat ik de taak scrum master op mij wilde nemen, omdat ik hier verwachtte veel van te kunnen leren. Het resultaat was dat ik 
+  scrum master geworden ben, gedurende twee sprints. Mijn groepsgenoten vonden dat ik de eerste sprint een meer actieve rol mocht spelen en de tweede sprint 
+  vonden ze dat ik het goed gedaan had.
+- **elke sprint de tips en tops van mijn groepsgenoten meeneem naar de volgende sprint en hier in verbeter, zie sprints.**<br />
+  Als groep hadden we aan het einde van elke sprint een retrospective inclusief peerreviews. Mijn taak was om tips en tops voor de groepsgenoten te geven en mijzelf te verbeteren o.b.v. de gekregen tips.
+  De actie die ik heb ondernomen is om mijn tips voorafgaand aan elke groepsdag erbij te pakken en hieraan te werken. Het resultaat hiervan is dat ik elke sprint aan mijn tips heb gewerkt. Op basis van de verkregen feedback
+  heb ik gemerkt dat ik steeds andere tips kreeg en ik hier daadwerkelijk in ben verbeterd. 
+- **ik de leiderschap en communicatie met het pentestbedrijf op mij genomen heb.**<br />
+  Als groep(Joel, Anouk en ik) moesten wij een pentest verzorgen voor een bedrijf. De taak die ik op me heb genomen is de communicatie met het bedrijf zelf. Wat ik uiteindelijk gedaan is 
+  tegen Joel en Anouk gezegd dat ik wel de leiderschap op mij wil nemen, omdat ik hier graag mee wil oefenen. Daarnaast heb ik direct met het bedrijf contact gezocht
+  via de mail en een MS Teams meeting gepland. Het resultaat was dat er contact gemaakt was met het bedrijf, ik leer met leiderschap en dat de groep geleidt wordt. Mijn groepsgenoten
+  vonden mij als leider/groepsgenoot erg prettig om mee te werken, zie [hier](/personal/feedback_j&a) de tips en tops voor mij.
+- **ik een goede samenwerking heb gevormd met de andere groepsleden tijdens het R&D project.**<br />
+  Als groep was het de bedoeling om het [project](/project) tot een goed einde te brengen. 
+  Mijn taak hierin was om goed te communiceren en samen te werken met groepsgenoten. Wat ik uiteindelijk gedaan heb is door middel van mijn scrum master
+  positie, het team goed leiden in de taken die gedaan moeten worden. Verder heb ik met andere samengewerkt en hiermee resultaat leveren door veel
+  overleggen en discussiëren.
+  
+
+### Persoonlijke ontwikkeling S6
+Om mijzelf continu te verbeteren, zijn er ook aandachtspunten naar voren gekomen dit semester.
+Aan deze aandachtspunten wil ik komend semester
+(S6) gaan werken ter persoonlijke ontwikkeling:
+- **Mensen aanspreken**<br />
+  Komend semester wil ik mensen leren aanspreken op houding en gedrag, op afspraken die gemaakt zijn, op het nakomen van bepaalde verplichtingen of verantwoordelijkheden.
+- **Concentratie behouden**<br />
+  Komend semester wil ik gaan werken aan de behouding van mijn concentratie, ook tijdens een lange schooldag. Hier heb ik soms nog wel is moeite mee.
+- **Meer mijn mening uiten**<br />
+  Komend semester wil ik meer mijn mening uiten tegenover andere. Vaak wordt ik overrompeld door andere die sterker zijn van mening dan mij.
