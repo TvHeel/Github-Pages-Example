@@ -44,7 +44,9 @@ You show that you can plan, manage and evaluate your personal development and le
 ### Onderbouwing (Personal Development)
 Wat betreft persoonlijke ontwikkeling vind ik dat ik op voldoende zit. Terug kijkend naar mijn leerplan vind ik dat ik het dit semester goed gedaan heb.
 Zo waren er aspecten die ik verbeterd wat betreft persoonlijke ontwikkeling dit semester. Zo ben ik minder onzeker geworden over mijn werk en lukt het mij
-kort en bondiger te formuleren. Verder heb ik dit semester ook mijn technische vaardigheden verbreed en heb ik veel dingen geleerd, denk hierbij aan
+kort en bondiger te formuleren. Dit is terug te zien in de documentatie die ik dit semester gemaakt heb, de feedback op deze documentatie
+was namelijk altijd vrij positief op. Vaak was de feedback op de manier van schrijven in de engelse taal, omdat ik de neiging heb
+het op een informele manier te documenteren (Dit is dan ook een leerdoel). Verder heb ik dit semester ook mijn technische vaardigheden verbreed en heb ik veel dingen geleerd, denk hierbij aan
 phishing, reverse engineering en boxes hacken (zie [resultaten](/results)).
 
 <hr>
@@ -86,9 +88,9 @@ In a complex innovation oriented project setting, you show a methodical approach
 
 ### Onderbouwing (Technical R&D project skills)
 Tijdens het R&D project denk ik dat ik mijn technische vraadigheden heb laten zien en ook veel geleerd heb.
-Zo heb ik de Airscrubber applicatie getest en daar ook mijn bevindingen uit kunnen halen, ondanks dat Rick hier al meteen mee aan de slag was gegaan.
+Zo heb ik de Air cleaner applicatie getest en daar ook mijn bevindingen uit kunnen halen, ondanks dat Rick hier al meteen mee aan de slag was gegaan.
 Ook heb ik gewerkt aan een smartwatch pentest, dit had ik nog nooit eerder gedaan. Hier heb ik uiteindelijk outdated software en PoC's van verschillende exploits gevonden. 
-Hiervan heb ik veel van kunnen leren. 
+Hiervan heb ik veel van kunnen leren, zie de rapporteren [hier](/must/pentests). 
 Daarnaast heb ik samen met Marc ook mee gekeken naar de smartscreen voor het exploiteren van open poorten, zie dit ook op de [site](https://marcvanbommel.github.io/project/smart_screen)
 van marc.
 
@@ -151,3 +153,5 @@ Aan deze aandachtspunten wil ik komend semester
   Komend semester wil ik gaan werken aan de behouding van mijn concentratie, ook tijdens een lange schooldag. Hier heb ik soms nog wel is moeite mee.
 - **Meer mijn mening uiten**<br />
   Komend semester wil ik meer mijn mening uiten tegenover andere. Vaak wordt ik overrompeld door andere die sterker zijn van mening dan mij.
+- **Schrijfstijl**<br />
+  Als aandachtspunt wil ik ook graag formeler kunnen formuleren in de engelse taal.
