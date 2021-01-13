@@ -97,12 +97,16 @@ van marc.
 
 ### Onderbouwing (Methodical R&D project process)
 Ik denk dat mijn methodische werking in het R&D project op voldoende staat. Ten eerste werken wij als groep op een Agile manier,
-hierin heb ik zeker bijgedragen door mij aan te bieden voor verschillende functies binnen Scrum. Zo ben ik zowel de notaris als scrum master geweest.
+hierin heb ik zeker bijgedragen door mij aan te bieden voor verschillende functies binnen Scrum. Zo ben ik zowel de notaris als scrum master geweest, voor details zie [hier](/project/roles).
 Scrum master was voor mij totaal nieuw, maar toch heb ik dit op me genomen en gaven mijn groepsgenoten hier positieve feedback op.
-Daarnaast heb ik ook tijdens pentesten en onderzoek methodisch gehandeld. Onderzoek is gedaan door middel van de [IoT research methods]() en dit is ook terug
+Daarnaast heb ik ook tijdens pentesten en onderzoek methodisch gehandeld. Onderzoek is gedaan door middel van de [IoT research methods](http://ictresearchmethods.nl/Methods) en dit is ook terug
 te zien in de onderzoeksdocumenten: <a href="../files/Research-plan.docx" download>Research Approach</a> en <a href="../files/TvH_Research_Approach.docx" download>Research Approach individueel</a>.
-Ook heb ik tijdens het R&D project gepentest op basis van de [OWASP Top 10](), dit is terug te zien in [dit TODO]() rapport.
-Dit bevatten onder andere een ethische analyse en onderzoeksdocumenten. 
+Ook heb ik tijdens alle pentesten methodisch gehandeld:
+- Tijdens het pentesten voor het bedrijf is er getest op basis van de [OWASP Top 10](https://owasp.org/www-project-top-ten/), dit is terug te zien in de pentest rapporten op [deze](https://joeladams.nl/company-pentest/) website.
+- Tijdens het hacken van boxen heb ik gepentest via de [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chain/), zie de write-ups van [HTB](/must/htb).
+- Tijdens het pentesten in het R&D project heb ik gepentest via de [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chain/), zie het rapport [hier](/must/pentests) (R&D project sectie). <br />
+- Tijdens het pentesten tijdens het Red vs. Blue team event heb ik gepentest via de [cyber kill chain](https://www.varonis.com/blog/cyber-kill-chain/), zie het rapport [hier](/must/pentests) (Blue vs Red team sectie). <br />
+Bij het eerste evenement kon er niet verder gegaan worden dan een reconnaissanc. Dit was, omdat de applicaties niet/tot nauwelijks functionaliteiten hadden ingebouwd.
 
 <hr>
 

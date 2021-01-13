@@ -22,7 +22,10 @@ indien deze zich voordeden. Elke dag heb ik mensen aan hun tand gevoeld om te ki
 ze iets voor zichzelf doen. Als laatste heb ik ook nog gekeken of elke stap in het scrum proces wordt doorlopen.
 
 Aangezien ik niet kan terug kijken in vorige sprints via Jira, heb ik hier een voorbeeld van een door mij ingerichte sprint: <br />
-![Sprint planning](../images/project/sprint4.png){: class="normal_img"} <br />
+![Sprint planning](../images/project/sprint4.png){: style="width: 750px;
+height: 400px;
+align: left;
+"} <br />
 
 Hierin is ook te zien dat aspecten als feedback van Casper in de sprint staan, berekend door mij leek het mij haalbaar dit in deze sprint te doen.
 
